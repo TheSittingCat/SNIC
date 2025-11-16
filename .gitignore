@@ -1,0 +1,21 @@
+# Ignore journal-related data, scripts and outputs (private/internal work)
+# - Datasets used only internally for the journal paper
+dataset/journal_dataset/
+dataset/journal_dataset/**
+
+# - Journal-specific runner script
+run_journal.py
+
+# - Journal-specific result files
+results/*journal*
+results/responses_journal*
+results/accuracies_journal*
+
+# - Combined journal dataset files
+dataset/journal_dataset/combined/
+dataset/journal_dataset/combined/**
+
+# Optional: any local files created when developing journal scripts
+*.ipynb_checkpoints
+*.log
+*.tmp
