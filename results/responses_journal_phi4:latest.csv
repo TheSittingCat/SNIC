@@ -1,0 +1,9228 @@
+Response
+dirty plate
+clean cup
+dirty fork
+clean mug
+clean cup
+dirty fork
+dirty fork
+dirty plate
+dirty spoon
+clean mug
+dirty fork
+dirty spoon
+dirty plate
+dirty fork
+dirty cup
+dirty mug
+dirty plate
+dirty plate
+dirty plate
+dirty plate
+dirty bowl
+clean spoon
+dirty mug
+clean bowl
+clean spoon
+dirty fork
+dirty plate
+dirty spoon
+clean spoon
+dirty mug
+dirty cup
+clean cup
+dirty bowl
+dirty plate
+clean fork
+dirty bowl
+clean bowl
+dirty cup
+clean cup
+dirty fork
+dirty bowl
+dirty cup
+dirty spoon
+dirty mug
+dirty spoon
+dirty bowl
+dirty plate
+dirty fork
+dirty fork
+clean cup
+dirty cup
+clean cup
+dirty fork
+dirty spoon
+dirty fork
+dirty spoon
+clean spoon
+clean mug
+dirty cup
+dirty mug
+dirty plate
+clean cup
+dirty bowl
+dirty bowl
+dirty mug
+dirty fork
+dirty bowl
+clean spoon
+dirty cup
+clean mug
+clean cup
+clean spoon
+clean mug
+clean spoon
+clean mug
+dirty bowl
+dirty mug
+clean mug
+clean mug
+clean mug
+dirty cup
+dirty bowl
+clean cup
+dirty mug
+dirty plate
+dirty bowl
+clean fork
+dirty fork
+dirty mug
+clean bowl
+dirty mug
+dirty mug
+dirty fork
+dirty cup
+clean spoon
+dirty mug
+dirty bowl
+dirty spoon
+clean mug
+dirty plate
+dirty bowl
+dirty fork
+dirty bowl
+dirty plate
+clean mug
+dirty fork
+dirty cup
+dirty spoon
+clean mug
+dirty plate
+clean cup
+clean mug
+dirty fork
+dirty mug
+dirty fork
+dirty plate
+dirty mug
+dirty spoon
+dirty plate
+clean mug
+clean bowl
+dirty fork
+dirty spoon
+dirty fork
+"clean plate
+
+jordan is engaged in a cleaning task in the garden. according to norm 2, during a cleaning task, you should clean items that are dirty. however, jordan asks taylor to hand them ""the plate,"" which implies they need it for their current activity. since there are two plates mentioned—one clean and one dirty—the context of the request suggests that jordan needs the clean plate, likely because it is suitable for use in a serving or other task where cleanliness is required.
+
+the prolog code specifies that there is a ""clean plate"" (obj4) among the objects present with taylor. given that jordan is cleaning but requests a plate, it's reasonable to infer they need the clean one for some purpose related to their current activity, possibly preparing something to serve or use in conjunction with their cleaning task."
+dirty bowl
+clean bowl
+clean fork
+dirty fork
+dirty plate
+dirty bowl
+dirty plate
+dirty bowl
+clean plate
+"dirty plate
+
+jordan is in a cleaning task (norm 2: in a cleaning task, you should clean items that are dirty). taylor is asked to hand over ""the plate"" by jordan. among the plates present, there is one that is described as dirty and another that is clean. given the context of cleaning, it makes sense for jordan to refer to the dirty plate, aligning with norm 2."
+clean spoon
+dirty cup
+clean cup
+dirty fork
+dirty mug
+dirty plate
+dirty bowl
+dirty bowl
+dirty bowl
+dirty plate
+dirty plate
+clean plate
+dirty mug
+clean plate
+clean mug
+dirty plate
+"clean spoon
+
+cameron is in a cleaning task (norm 2: clean items that are dirty). however, cameron asks charlie to hand them ""the spoon,"" which implies they need it for their current activity. since there are two spoons present—one dirty and one clean—the context of the request suggests cameron needs the clean spoon. this aligns with norm 3 in a cooking task (use tools that are clean), but since cameron is cleaning, the focus remains on using items appropriately for the task at hand.
+
+in this scenario, although cameron's primary task is cleaning, they need to use the clean spoon, possibly for preparing something or organizing while cleaning. the request does not specify cleaning the dirty spoon, so it can be inferred that the clean spoon is what cameron needs immediately."
+dirty bowl
+dirty fork
+dirty plate
+dirty mug
+dirty spoon
+dirty bowl
+dirty spoon
+dirty spoon
+dirty fork
+dirty bowl
+dirty plate
+dirty fork
+dirty spoon
+dirty bowl
+clean mug
+dirty bowl
+dirty spoon
+clean mug
+dirty spoon
+dirty bowl
+clean fork
+dirty mug
+dirty mug
+clean fork
+dirty mug
+dirty mug
+dirty spoon
+dirty mug
+dirty plate
+dirty fork
+dirty cup
+dirty bowl
+clean spoon
+dirty plate
+dirty bowl
+dirty plate
+"clean plate
+
+jordan is in a cleaning task (norm 2: clean items that are dirty) and asks taylor to hand them ""the plate."" given the objects present, there are two plates: one clean and one dirty. since jordan is engaged in cleaning, they would prefer the clean plate over the dirty one for any serving or handling tasks, aligning with norms 1 and 3 (serve/cook with clean items). the request for ""the plate"" without specifying its condition implies a preference for the clean plate, as it's more suitable for immediate use in cleaning-related activities."
+dirty plate
+clean cup
+dirty fork
+dirty mug
+dirty cup
+clean mug
+dirty plate
+clean fork
+dirty mug
+dirty mug
+dirty bowl
+clean bowl
+dirty plate
+dirty bowl
+dirty mug
+dirty cup
+dirty spoon
+clean fork
+dirty spoon
+clean cup
+clean spoon
+clean plate
+dirty bowl
+dirty plate
+clean fork
+clean cup
+clean fork
+dirty spoon
+dirty spoon
+dirty spoon
+clean plate
+"clean plate
+
+cameron is in a cleaning task (norm 2: in a cleaning task, you should clean items that are dirty). however, cameron asks charlie to hand them ""the plate,"" which implies they need the plate for some purpose. since cameron is cleaning and not serving or cooking, we must consider the context of their request.
+
+charlie has both a clean plate (obj2) and a dirty plate (obj6) next to him. given that cameron is in a cleaning task, it would be logical to prioritize handling items related to cleaning. however, since cameron specifically asks for ""the plate,"" without specifying its cleanliness, we must consider the context of their interaction.
+
+in this scenario, cameron's request for ""the plate"" likely refers to the clean plate (obj2) because:
+- the clean plate is more useful in a general task or interaction that might follow cleaning.
+- there is no indication that cameron needs to address the dirty plate immediately as part of their current task.
+- norm 1 and norm 4 suggest avoiding using dirty items for serving, but since cameron is not serving, this norm does not apply directly.
+
+therefore, the clean plate (obj2) is the most appropriate object being referred to by ""the plate"" in this context."
+dirty plate
+dirty mug
+clean spoon
+dirty bowl
+dirty cup
+dirty mug
+clean mug
+dirty cup
+clean spoon
+clean fork
+dirty bowl
+dirty spoon
+clean fork
+dirty spoon
+clean mug
+dirty spoon
+clean spoon
+dirty plate
+clean spoon
+dirty plate
+dirty bowl
+dirty plate
+dirty mug
+clean plate
+dirty cup
+dirty mug
+dirty spoon
+dirty spoon
+clean mug
+dirty fork
+dirty spoon
+dirty spoon
+clean spoon
+dirty spoon
+dirty bowl
+dirty bowl
+clean spoon
+dirty cup
+"dirty plate
+
+jordan is engaged in a cleaning task (norm 2: in a cleaning task, you should clean items that are dirty). the prolog code indicates there are two plates present: one clean and one dirty. since jordan asks taylor to hand them ""the plate,"" the context of the cleaning task suggests prioritizing the dirty plate for cleaning purposes."
+clean plate
+dirty mug
+clean fork
+dirty fork
+dirty mug
+dirty fork
+dirty cup
+clean cup
+clean spoon
+clean fork
+dirty bowl
+dirty cup
+dirty mug
+clean bowl
+dirty plate
+clean mug
+dirty mug
+dirty mug
+dirty plate
+clean bowl
+clean plate
+dirty bowl
+dirty spoon
+clean spoon
+dirty cup
+clean cup
+dirty cup
+dirty mug
+clean bowl
+dirty mug
+dirty plate
+dirty spoon
+dirty cup
+dirty bowl
+dirty plate
+dirty cup
+dirty plate
+dirty spoon
+clean plate
+dirty bowl
+clean mug
+clean bowl
+dirty bowl
+dirty mug
+dirty plate
+dirty fork
+clean plate
+clean cup
+dirty fork
+clean fork
+clean cup
+clean mug
+dirty spoon
+dirty fork
+dirty plate
+dirty plate
+dirty fork
+dirty mug
+clean mug
+dirty mug
+dirty mug
+dirty mug
+clean bowl
+dirty spoon
+clean bowl
+dirty bowl
+dirty bowl
+dirty fork
+dirty cup
+dirty cup
+clean bowl
+dirty plate
+dirty plate
+dirty plate
+dirty plate
+dirty bowl
+dirty cup
+dirty bowl
+dirty mug
+clean cup
+dirty bowl
+clean fork
+dirty mug
+dirty cup
+dirty fork
+dirty fork
+dirty spoon
+dirty cup
+dirty bowl
+dirty fork
+dirty plate
+dirty mug
+clean mug
+clean cup
+dirty spoon
+dirty plate
+dirty bowl
+dirty plate
+dirty plate
+clean plate
+dirty plate
+clean mug
+dirty bowl
+clean fork
+dirty fork
+dirty cup
+dirty fork
+dirty mug
+dirty bowl
+dirty mug
+clean bowl
+clean plate
+dirty cup
+dirty fork
+dirty fork
+clean fork
+dirty mug
+clean plate
+dirty cup
+dirty cup
+clean fork
+dirty cup
+dirty bowl
+dirty fork
+"clean bowl
+
+alex is in a cleaning task (norm 2: in a cleaning task, you should clean items that are dirty). however, alex asks bailey to hand them ""the bowl,"" which implies they need the bowl for their current activity. since alex is cleaning and not serving or cooking, we must consider whether there's any conflict with norms related to cleaning tasks.
+
+the scene includes both a clean bowl (obj4) and a dirty bowl (obj5). given that alex is in a cleaning task, it would be logical to prioritize handling the dirty items. however, since alex specifically requests ""the bowl"" without specifying its cleanliness, we must consider the context of their request. 
+
+in this scenario, alex's request for ""the bowl"" likely refers to the clean bowl (obj4) because:
+- the clean bowl is not a hazard and does not need cleaning.
+- there is no indication that alex needs to clean the bowl at this moment.
+- the clean bowl could be used in the context of organizing or preparing for further cleaning tasks.
+
+therefore, based on the request and the norms provided, ""the bowl"" refers to the clean bowl."
+dirty plate
+dirty bowl
+dirty spoon
+dirty spoon
+clean fork
+dirty plate
+dirty bowl
+dirty mug
+dirty fork
+clean mug
+dirty plate
+dirty mug
+dirty bowl
+clean fork
+clean mug
+dirty cup
+dirty fork
+clean plate
+clean bowl
+clean plate
+dirty bowl
+clean fork
+dirty fork
+dirty spoon
+dirty bowl
+dirty spoon
+dirty plate
+dirty plate
+dirty bowl
+clean cup
+clean bowl
+clean fork
+dirty mug
+dirty bowl
+dirty bowl
+clean plate
+dirty spoon
+dirty spoon
+clean bowl
+dirty plate
+dirty fork
+clean mug
+dirty cup
+clean bowl
+dirty plate
+dirty spoon
+dirty bowl
+dirty mug
+clean fork
+clean fork
+dirty plate
+dirty bowl
+dirty fork
+dirty bowl
+dirty plate
+dirty mug
+dirty cup
+dirty spoon
+dirty spoon
+clean spoon
+dirty bowl
+dirty bowl
+dirty mug
+dirty plate
+dirty spoon
+clean bowl
+clean plate
+clean cup
+dirty mug
+dirty fork
+clean fork
+dirty cup
+clean cup
+"dirty bowl
+
+jordan is engaged in a cleaning task within the restaurant setting. according to norm 2, during a cleaning task, items that are dirty should be prioritized for cleaning. the referring expression ""the bowl"" suggests taylor should hand over one of the bowls present. among the available options, there is both a clean and a dirty bowl. given the context of jordan's cleaning task and the norms provided, the appropriate choice is to focus on the dirty bowl."
+dirty fork
+clean spoon
+clean bowl
+dirty fork
+dirty mug
+dirty fork
+clean spoon
+dirty bowl
+clean cup
+clean mug
+dirty fork
+clean cup
+clean plate
+"clean spoon
+
+alex is engaged in a cleaning task at the restaurant. according to norm 2, alex should clean items that are dirty. however, alex asks bailey specifically for ""the spoon,"" which implies a preference or need for a specific type of spoon. given the options available next to bailey—a dirty bowl, remote control, magazine, dirty spoon, and clean spoon—the request aligns with norm 3 in a cooking task context (though not explicitly stated here), where one should use tools that are clean.
+
+since alex is cleaning but requests ""the spoon,"" it suggests that alex needs the clean spoon for some purpose related to their current activity. the clean spoon is the only spoon available, and since alex specifies ""the spoon"" without indicating a preference for dirty items, it aligns with using clean items in tasks like cooking or serving.
+
+therefore, the target object referred to by alex when asking bailey for ""the spoon"" is the clean spoon."
+dirty spoon
+clean fork
+clean bowl
+dirty bowl
+dirty mug
+"clean plate
+
+alex is engaged in a cleaning task in the garden. according to norm 2, alex should clean items that are dirty. however, since alex asks bailey to hand them ""the plate,"" and there are two plates present (one clean and one dirty), we need to determine which plate alex refers to.
+
+given the context of the scene:
+- the referring expression is ""the_plate.""
+- there are two plates: a clean plate and a dirty plate.
+- in a cleaning task, it would be more logical for alex to request the clean plate if they intend to use it for serving or another purpose after cleaning. this aligns with norm 1, which states that in a serving task (or any task requiring a plate), one should use kitchen items that are clean.
+
+therefore, alex is likely referring to the ""clean plate"" when asking bailey to hand them ""the plate."""
+clean spoon
+dirty cup
+dirty plate
+clean mug
+dirty mug
+clean cup
+dirty bowl
+dirty spoon
+dirty fork
+clean bowl
+dirty bowl
+dirty plate
+dirty mug
+clean fork
+dirty fork
+dirty plate
+dirty bowl
+dirty plate
+clean plate
+dirty plate
+dirty plate
+dirty plate
+dirty mug
+clean fork
+dirty cup
+dirty fork
+clean fork
+dirty spoon
+clean cup
+dirty bowl
+clean plate
+dirty fork
+clean fork
+clean mug
+dirty mug
+dirty spoon
+clean spoon
+clean cup
+dirty spoon
+dirty fork
+dirty mug
+dirty plate
+clean fork
+dirty mug
+dirty cup
+dirty plate
+dirty bowl
+dirty spoon
+dirty plate
+dirty fork
+dirty bowl
+dirty plate
+dirty spoon
+clean bowl
+dirty spoon
+dirty bowl
+dirty cup
+clean mug
+dirty plate
+clean plate
+dirty bowl
+dirty cup
+dirty plate
+dirty mug
+dirty bowl
+dirty mug
+clean mug
+clean fork
+dirty cup
+dirty cup
+clean cup
+dirty mug
+clean fork
+dirty plate
+clean spoon
+dirty spoon
+dirty plate
+dirty cup
+dirty plate
+clean mug
+dirty mug
+dirty fork
+dirty mug
+clean cup
+dirty mug
+dirty plate
+clean fork
+clean mug
+dirty mug
+dirty plate
+dirty spoon
+dirty cup
+clean mug
+dirty plate
+dirty spoon
+dirty mug
+dirty bowl
+dirty bowl
+dirty mug
+clean plate
+dirty mug
+dirty cup
+dirty plate
+dirty bowl
+"clean mug
+
+cameron is in a cleaning task (norm 2: in a cleaning task, you should clean items that are dirty). however, cameron asks charlie to hand them ""the mug,"" which implies they need the mug for some purpose. since there are two mugs mentioned—one clean and one dirty—the context of cameron's request suggests they want the clean mug. this aligns with norm 3: in a cooking task, you should cook with tools that are clean, as well as general logic in serving or cleaning tasks where clean items are preferred for use."
+dirty cup
+dirty plate
+dirty fork
+dirty mug
+dirty mug
+dirty fork
+dirty fork
+clean cup
+clean cup
+clean mug
+clean bowl
+clean bowl
+dirty fork
+dirty bowl
+clean spoon
+dirty cup
+dirty spoon
+dirty mug
+dirty mug
+clean spoon
+dirty mug
+clean mug
+dirty cup
+clean spoon
+dirty bowl
+dirty spoon
+clean fork
+dirty spoon
+dirty cup
+clean bowl
+clean spoon
+dirty spoon
+dirty fork
+dirty spoon
+clean fork
+dirty cup
+dirty plate
+dirty spoon
+dirty bowl
+dirty plate
+dirty mug
+dirty bowl
+dirty spoon
+dirty fork
+clean cup
+clean bowl
+dirty fork
+dirty cup
+dirty plate
+dirty spoon
+dirty mug
+clean cup
+dirty fork
+dirty plate
+dirty bowl
+clean mug
+dirty plate
+dirty spoon
+clean bowl
+dirty plate
+dirty cup
+dirty mug
+clean cup
+clean spoon
+dirty spoon
+dirty bowl
+dirty plate
+dirty bowl
+dirty mug
+dirty spoon
+dirty mug
+dirty plate
+clean mug
+dirty mug
+dirty cup
+"clean plate
+
+jordan is in a cleaning task (norm 2: in a cleaning task, you should clean items that are dirty). however, jordan asks taylor to hand them ""the plate,"" which implies they need the plate for some purpose. since there are two plates mentioned—one clean and one dirty—the context of the request suggests that jordan needs the clean plate. this aligns with norm 3: in a cooking task, you should cook with tools that are clean, but since this is a cleaning task, it's more about using items appropriately for their intended purpose.
+
+the clean plate is not a hazard and does not need to be cleaned immediately (norm 6: prioritize hazards). the dirty plate would typically be the focus in a cleaning task, but jordan specifically asks for ""the plate,"" which implies they are referring to the clean one. this request could be related to setting up or organizing during the cleaning process."
+dirty spoon
+dirty spoon
+dirty spoon
+clean fork
+dirty fork
+clean fork
+dirty cup
+dirty spoon
+dirty fork
+clean bowl
+clean plate
+dirty cup
+dirty spoon
+dirty fork
+dirty fork
+dirty spoon
+dirty mug
+dirty plate
+dirty bowl
+clean cup
+clean spoon
+clean bowl
+dirty spoon
+dirty fork
+dirty spoon
+dirty cup
+dirty mug
+dirty mug
+clean spoon
+dirty mug
+clean mug
+dirty plate
+dirty mug
+dirty plate
+dirty bowl
+dirty bowl
+dirty spoon
+dirty bowl
+dirty plate
+dirty fork
+dirty fork
+dirty spoon
+dirty bowl
+"dirty plate
+
+explanation:
+- the scene describes morgan asking riley to hand them ""the plate.""
+- according to norm 2, in a cleaning task, you should clean items that are dirty.
+- there is a dirty plate present among the objects next to riley.
+- given the context of morgan's request and the norms provided, it makes sense for morgan to refer to the dirty plate as the object they want riley to hand over."
+dirty cup
+dirty spoon
+clean mug
+dirty fork
+dirty bowl
+dirty bowl
+dirty plate
+dirty mug
+clean fork
+dirty cup
+dirty plate
+dirty cup
+dirty mug
+clean cup
+clean spoon
+dirty plate
+dirty mug
+clean plate
+dirty bowl
+clean fork
+dirty mug
+clean fork
+dirty plate
+dirty bowl
+dirty fork
+clean cup
+"clean plate
+
+cameron is in a cleaning task according to the scene description. in this context, norm 2 suggests that cameron should clean items that are dirty. however, since cameron asks charlie to hand them ""the plate,"" and there are two plates (one clean and one dirty), we need to determine which plate cameron is referring to.
+
+given the norms:
+- norm 1: in a serving task, you should serve with kitchen items that are clean.
+- norm 3: in a cooking task, you should cook with tools that are clean.
+
+although these norms pertain more directly to serving and cooking tasks, they emphasize the preference for using clean items in tasks involving plates. since cameron is cleaning and asks for ""the plate,"" it's reasonable to infer that cameron would prefer the clean plate over the dirty one, as it aligns with the general preference for clean items when handling kitchenware.
+
+therefore, cameron is likely referring to the clean plate."
+dirty plate
+clean bowl
+dirty fork
+dirty bowl
+clean spoon
+dirty plate
+clean spoon
+clean mug
+dirty mug
+clean plate
+clean mug
+dirty spoon
+"clean mug
+
+jordan is in a cleaning task (norm 2: in a cleaning task, you should clean items that are dirty). taylor is asked to hand over ""the mug."" there are two mugs present: an old mug and a clean mug. the referring expression ""the_mug"" does not specify which one, but since jordan is in the kitchen for cleaning, it makes sense to prioritize handing over the clean mug rather than the old (and potentially dirty) mug. this aligns with norm 1 (in a serving task, you should serve with kitchen items that are clean), as well as ensuring that any item used or handed over during cleaning tasks is in a usable state."
+dirty plate
+dirty plate
+dirty fork
+dirty fork
+dirty plate
+dirty spoon
+dirty mug
+dirty bowl
+clean mug
+dirty fork
+dirty bowl
+dirty cup
+clean spoon
+dirty spoon
+dirty bowl
+dirty bowl
+dirty fork
+dirty spoon
+dirty cup
+dirty bowl
+dirty spoon
+dirty mug
+clean spoon
+clean bowl
+clean spoon
+dirty cup
+dirty mug
+dirty mug
+dirty fork
+clean spoon
+clean mug
+clean bowl
+clean bowl
+dirty spoon
+clean spoon
+dirty fork
+dirty bowl
+clean bowl
+dirty fork
+dirty cup
+clean fork
+clean spoon
+dirty bowl
+"clean mug
+
+alex is engaged in a cleaning task within the restaurant setting. according to norm 2, alex should focus on cleaning items that are dirty. however, since alex asks bailey specifically for ""the mug,"" and given that there are both a dirty mug (obj3) and a clean mug (obj6) present, it's clear that alex is referring to the clean mug (obj6). this aligns with norm 1, which states that in serving tasks kitchen items should be clean. although alex is cleaning, asking for the clean mug suggests an intention to use or serve it, thus prioritizing the clean item over the dirty one."
+dirty fork
+clean spoon
+dirty bowl
+dirty bowl
+clean spoon
+dirty mug
+clean cup
+clean bowl
+clean bowl
+clean plate
+clean bowl
+dirty plate
+clean bowl
+dirty mug
+dirty plate
+dirty mug
+dirty bowl
+clean cup
+clean mug
+clean fork
+dirty spoon
+clean fork
+"dirty plate
+
+jordan is engaged in a cleaning task within the restaurant setting. according to norm 2, during a cleaning task, items that are dirty should be prioritized for cleaning. the prolog code specifies that there is a ""dirty plate"" (obj1) among the objects present near taylor. since jordan asks taylor to hand them ""the plate,"" and given the context of the cleaning task, it aligns with norm 2 to refer to the ""dirty plate."" this choice ensures that the focus remains on addressing items that require cleaning."
+clean spoon
+dirty plate
+dirty fork
+dirty spoon
+dirty bowl
+dirty plate
+dirty fork
+dirty fork
+clean plate
+clean cup
+dirty mug
+dirty cup
+"dirty spoon
+
+jordan is in a cleaning task (norm 2: in a cleaning task, you should clean items that are dirty). taylor has both a dirty spoon and a clean spoon. since jordan asks for ""the spoon,"" the context of cleaning suggests they would prefer the dirty one to be cleaned or used appropriately within the cleaning process. the prolog code confirms there is an object with properties `dirty` and `spoon`, which matches the referring expression ""the_spoon."""
+clean cup
+dirty fork
+dirty bowl
+dirty bowl
+dirty cup
+dirty mug
+clean cup
+dirty spoon
+clean plate
+dirty bowl
+"clean plate
+
+jordan is in a cleaning task (norm 2: clean items that are dirty). however, jordan asks taylor to hand them ""the plate,"" which implies they want the clean plate rather than the dirty one. this aligns with norm 7, prioritizing hazards over other tasks, but since there's no hazard mentioned related to plates, and given the context of serving or using a plate (norm 1: serve with kitchen items that are clean), jordan is likely referring to the clean plate."
+clean spoon
+clean mug
+dirty cup
+dirty bowl
+clean spoon
+dirty mug
+dirty cup
+dirty cup
+dirty cup
+dirty fork
+dirty cup
+dirty plate
+dirty fork
+dirty mug
+dirty plate
+clean plate
+clean bowl
+dirty spoon
+dirty fork
+clean fork
+dirty fork
+"dirty plate
+
+jordan is in a cleaning task (norm 2: in a cleaning task, you should clean items that are dirty). taylor is next to several objects, including a dirty cup, throw pillow, dirty plate, remote control, magazine, and clean plate. jordan asks taylor for ""the plate,"" which refers to the object with the property of being a plate.
+
+in this context, there are two plates: one is described as dirty (obj3) and the other as clean (obj6). since jordan is engaged in cleaning and has asked specifically for ""the plate"" without specifying its condition, it aligns with norm 2 to prioritize handling items that are dirty. therefore, the target object referred to by jordan's request is the ""dirty plate."""
+dirty plate
+dirty cup
+dirty bowl
+dirty fork
+dirty bowl
+dirty cup
+clean bowl
+dirty bowl
+dirty spoon
+clean mug
+dirty mug
+dirty bowl
+dirty cup
+dirty spoon
+dirty spoon
+dirty mug
+dirty cup
+dirty bowl
+dirty mug
+dirty bowl
+clean fork
+clean plate
+dirty plate
+dirty mug
+dirty cup
+dirty spoon
+clean spoon
+dirty spoon
+dirty bowl
+clean spoon
+dirty fork
+dirty bowl
+clean mug
+dirty mug
+dirty spoon
+dirty mug
+dirty cup
+dirty bowl
+dirty spoon
+dirty fork
+dirty spoon
+dirty fork
+dirty cup
+clean spoon
+dirty plate
+dirty fork
+clean cup
+clean fork
+dirty bowl
+clean bowl
+dirty bowl
+dirty bowl
+dirty spoon
+clean bowl
+dirty spoon
+clean cup
+dirty mug
+clean mug
+clean plate
+dirty spoon
+dirty mug
+dirty cup
+dirty cup
+clean cup
+clean fork
+dirty mug
+dirty spoon
+dirty spoon
+dirty bowl
+dirty fork
+clean fork
+dirty plate
+dirty fork
+dirty fork
+dirty bowl
+clean spoon
+dirty bowl
+dirty bowl
+clean cup
+clean cup
+dirty spoon
+dirty plate
+dirty mug
+dirty plate
+dirty fork
+dirty mug
+dirty spoon
+"clean cup
+
+cameron is in a cleaning task (norm 2: in a cleaning task, you should clean items that are dirty). however, cameron asks charlie to hand them ""the cup,"" which implies they need the cup for some purpose. since there are two cups mentioned—one dirty and one clean—the context of cameron's request suggests they require the clean cup. this aligns with norm 3: in a cooking task, you should cook with tools that are clean, as well as general logic in cleaning tasks where clean items might be needed to replace or use instead of dirty ones."
+clean fork
+dirty fork
+clean bowl
+dirty bowl
+dirty bowl
+clean plate
+dirty bowl
+clean bowl
+clean fork
+dirty mug
+"dirty plate
+
+explanation: morgan is in a cleaning task (norm 2) and asks riley to hand them ""the plate."" among the objects listed, there are two plates: one dirty and one clean. given norm 1, which states that kitchen items should be clean for serving tasks, and considering morgan's current task of cleaning, it makes sense to focus on the dirty plate. additionally, norm 6 prioritizes cleaning up hazards, but in this context, a dirty plate is more relevant to morgan's request than any potential hazard. therefore, ""the plate"" referred to by morgan is most likely the dirty plate."
+clean mug
+dirty mug
+dirty bowl
+dirty mug
+dirty fork
+dirty spoon
+dirty plate
+clean cup
+clean cup
+dirty spoon
+dirty bowl
+dirty fork
+dirty spoon
+clean mug
+dirty cup
+dirty bowl
+dirty spoon
+dirty spoon
+dirty mug
+dirty fork
+dirty plate
+dirty mug
+dirty spoon
+dirty plate
+dirty bowl
+dirty fork
+dirty cup
+dirty fork
+dirty mug
+dirty bowl
+dirty plate
+dirty plate
+dirty fork
+dirty fork
+clean mug
+dirty plate
+dirty plate
+clean cup
+clean mug
+dirty bowl
+dirty bowl
+dirty spoon
+dirty fork
+dirty cup
+bowl
+bowl
+plate
+mug
+bowl
+cup
+tray
+bowl
+mug
+non-decorative tray
+cup
+tray
+tray
+cup
+mug
+mug
+cup
+cup
+cup
+tray
+tray
+mug
+cup
+bowl
+mug
+bowl
+tray
+plate
+mug
+bowl
+tray
+mug
+plate
+mug
+mug
+cup
+bowl
+mug
+plate
+mug
+clean plate
+tray
+plate
+mug
+mug
+bowl
+mug
+cup
+cup
+tray
+bowl
+bowl
+cup
+cup
+bowl
+mug
+mug
+cup
+plate
+tray
+plate
+plate
+bowl
+bowl
+tray
+plate
+regular mug
+plate
+bowl
+cup
+bowl
+plain mug
+plain plate
+bowl
+cup
+bowl
+mug
+tray
+mug
+mug
+cup
+tray
+mug
+bowl
+plate
+bowl
+tray
+plate
+clean plate
+cup
+plain tray
+plate
+mug
+cup
+plate
+bowl
+mug
+mug
+tray
+cup
+plate
+tray
+mug
+tray
+mug
+tray
+tray
+bowl
+bowl
+cup
+mug
+cup
+cup
+tray
+tray
+cup
+plate
+cup
+regular mug
+bowl
+tray
+cup
+plain cup
+tray
+tray
+mug
+tray
+cup
+plate
+plate
+bowl
+bowl
+plate
+plate
+cup
+mug
+cup
+cup
+bowl
+bowl
+plate
+cup
+cup
+bowl
+tray
+plain bowl
+bowl
+tray
+mug
+mug
+tray
+tray
+tray
+mug
+bowl
+plate
+bowl
+cup
+mug
+plate
+plain tray
+mug
+tray
+plain tray
+plain cup
+cup
+tray
+plate
+plate
+the non-decorative bowl
+plate
+bowl
+mug
+tray
+mug
+bowl
+mug
+plate
+clean tray
+bowl
+bowl
+bowl
+tray
+clean plate
+plate
+plate
+mug
+bowl
+mug
+cup
+mug
+mug
+bowl
+mug
+mug
+cup
+tray
+mug
+mug
+plate
+mug
+mug
+plate
+clean plate
+plate
+bowl
+tray
+mug
+plate
+tray
+cup
+tray
+mug
+cup
+plate
+mug
+bowl
+mug
+clean plate
+bowl
+cup
+cup
+mug
+cup
+plate
+bowl
+cup
+cup
+plate
+plate
+plate
+mug
+plate
+mug
+cup
+bowl
+cup
+cup
+clean plate
+mug
+bowl
+plate
+cup
+tray
+mug
+cup
+tray
+plain bowl
+plate
+bowl
+cup
+tray
+mug
+mug
+tray
+cup
+plate
+tray
+mug
+cup
+cup
+tray
+mug
+bowl
+cup
+bowl
+plate
+bowl
+tray
+cup
+plate
+plate
+tray
+plate
+cup
+mug
+cup
+regular plate
+tray
+bowl
+mug
+tray
+bowl
+plate
+tray
+bowl
+plate
+bowl
+mug
+cup
+plate
+tray
+bowl
+tray
+cup
+cup
+plate
+plain plate
+tray
+tray
+mug
+mug
+mug
+plain plate
+cup
+plate
+plate
+plate
+mug
+tray
+plate
+plate
+cup
+bowl
+mug
+regular cup
+cup
+mug
+tray
+tray
+plate
+plate
+tray
+the tray
+bowl
+tray
+plate
+cup
+cup
+mug
+bowl
+cup
+bowl
+mug
+bowl
+mug
+bowl
+mug
+tray
+mug
+cup
+cup
+cup
+plate
+clean plate
+bowl
+plate
+bowl
+plate
+mug
+plate
+plate
+mug
+bowl
+tray
+cup
+plate
+bowl
+bowl
+bowl
+tray
+mug
+cup
+mug
+the tray
+tray
+cup
+bowl
+cup
+tray
+plate
+tray
+tray
+cup
+mug
+bowl
+bowl
+bowl
+clean plate
+bowl
+cup
+plate
+plate
+tray
+tray
+mug
+mug
+tray
+bowl
+clean plate
+bowl
+mug
+cup
+tray
+bowl
+bowl
+plate
+cup
+mug
+plate
+bowl
+tray
+plate
+bowl
+cup
+bowl
+tray
+bowl
+tray
+bowl
+bowl
+cup
+plate
+tray
+bowl
+bowl
+bowl
+tray
+plate
+mug
+plate
+bowl
+cup
+cup
+tray
+tray
+tray
+clean plate
+cup
+cup
+mug
+cup
+plate
+mug
+bowl
+tray
+cup
+tray
+mug
+cup
+bowl
+plate
+tray
+tray
+cup
+plate
+bowl
+cup
+cup
+cup
+plain bowl
+mug
+plate
+plate
+cup
+plate
+plain tray
+bowl
+mug
+mug
+tray
+cup
+tray
+plate
+bowl
+cup
+mug
+cup
+bowl
+cup
+mug
+plate
+plate
+plate
+plate
+plate
+plate
+tray
+bowl
+cup
+plate
+tray
+mug
+plate
+mug
+plate
+tray
+plate
+plain mug
+non-decorative tray
+bowl
+plate
+mug
+mug
+plate
+bowl
+plate
+cup
+cup
+bowl
+mug
+mug
+cup
+mug
+the bowl
+mug
+plain bowl
+tray
+mug
+tray
+cup
+plate
+cup
+plate
+cup
+mug
+cup
+plate
+bowl
+tray
+bowl
+cup
+plain tray
+cup
+mug
+bowl
+plate
+cup
+plate
+plate
+cup
+plate
+bowl
+plate
+bowl
+tray
+plate
+mug
+bowl
+cup
+cup
+mug
+bowl
+bowl
+plate
+cup
+mug
+cup
+bowl
+bowl
+mug
+tray
+bowl
+tray
+cup
+tray
+mug
+mug
+tray
+cup
+bowl
+tray
+cup
+mug
+plate
+tray
+bowl
+cup
+plate
+mug
+cup
+mug
+tray
+bowl
+tray
+plate
+clean plate
+plate
+tray
+mug
+clean plate
+mug
+tray
+bowl
+bowl
+cup
+tray
+plate
+mug
+mug
+tray
+bowl
+mug
+mug
+bowl
+cup
+plate
+plate
+cup
+plate
+cup
+cup
+clean plate
+bowl
+plate
+plate
+bowl
+plate
+mug
+plain bowl
+tray
+tray
+tray
+tray
+mug
+bowl
+plate
+mug
+cup
+bowl
+bowl
+bowl
+mug
+bowl
+cup
+plate
+bowl
+tray
+plate
+cup
+tray
+tray
+plate
+cup
+cup
+mug
+plate
+cup
+tray
+mug
+cup
+bowl
+cup
+mug
+cup
+plate
+mug
+plate
+plate
+tray
+bowl
+bowl
+plain plate
+plate
+bowl
+bowl
+tray
+cup
+plate
+tray
+bowl
+bowl
+tray
+plate
+mug
+mug
+cup
+cup
+cup
+bowl
+tray
+plate
+cup
+tray
+clean bowl
+cup
+cup
+tray
+mug
+plate
+cup
+bowl
+cup
+cup
+mug
+plate
+plate
+cup
+cup
+bowl
+cup
+mug
+cup
+cup
+tray
+plate
+tray
+mug
+mug
+plate
+plate
+bowl
+tray
+mug
+mug
+tray
+plain tray
+tray
+plate
+mug
+mug
+cup
+tray
+tray
+plate
+mug
+mug
+plate
+tray
+bowl
+bowl
+mug
+cup
+tray
+bowl
+plate
+plate
+bowl
+bowl
+clean plate
+cup
+tray
+mug
+mug
+cup
+mug
+plate
+mug
+mug
+tray
+plate
+cup
+bowl
+tray
+bowl
+mug
+tray
+mug
+plain mug
+mug
+"the tray
+
+in this scenario, alex is serving in the kitchen and asks bailey to hand them ""the tray."" according to norm 1, in a serving task, you should serve with kitchen items that are clean. the prolog code indicates there are two trays: one unspecified (obj1) and another described as decorative (obj5). since alex is serving, they would likely refer to the non-decorative tray for practical use, aligning with norm 4, which states that in a serving task you should not use items that are decorative. therefore, ""the tray"" refers to the non-decorative tray."
+bowl
+bowl
+bowl
+mug
+cup
+tray
+mug
+plate
+mug
+tray
+plate
+bowl
+mug
+tray
+tray
+cup
+plate
+mug
+bowl
+cup
+plate
+tray
+tray
+cup
+plate
+mug
+mug
+a decorative mug
+bowl
+cup
+cup
+plate
+tray
+bowl
+tray
+cup
+bowl
+mug
+cup
+mug
+plate
+mug
+bowl
+cup
+bowl
+bowl
+tray
+cup
+bowl
+plate
+mug
+plate
+cup
+tray
+cup
+bowl
+tray
+plate
+bowl
+the bowl
+plate
+cup
+mug
+tray
+bowl
+mug
+bowl
+plain plate
+cup
+cup
+tray
+cup
+mug
+cup
+mug
+tray
+mug
+mug
+mug
+cup
+bowl
+mug
+plate
+tray
+bowl
+plate
+mug
+plate
+tray
+tray
+cup
+mug
+plate
+mug
+mug
+mug
+tray
+clean plate
+plate
+plate
+bowl
+bowl
+clean plate
+plate
+cup
+plate
+regular mug
+bowl
+plate
+tray
+bowl
+tray
+plate
+plate
+tray
+mug
+cup
+bowl
+tray
+bowl
+plate
+plate
+clean plate
+plate
+mug
+bowl
+cup
+mug
+cup
+mug
+mug
+cup
+plate
+tray
+mug
+cup
+bowl
+bowl
+bowl
+mug
+plate
+cup
+tray
+cup
+tray
+tray
+plate
+cup
+mug
+tray
+cup
+regular mug
+bowl
+mug
+mug
+plate
+mug
+tray
+tray
+plate
+bowl
+mug
+plate
+tray
+plate
+mug
+plate
+tray
+cup
+bowl
+tray
+mug
+plate
+mug
+bowl
+tray
+plate
+tray
+tray
+tray
+cup
+bowl
+cup
+tray
+tray
+bowl
+regular plate
+plate
+bowl
+cup
+cup
+cup
+cup
+plain plate
+cup
+mug
+tray
+clean plate
+bowl
+tray
+cup
+bowl
+clean plate
+tray
+mug
+plate
+plate
+tray
+cup
+cup
+plain plate
+tray
+bowl
+bowl
+tray
+mug
+plate
+cup
+tray
+mug
+bowl
+cup
+bowl
+cup
+plate
+plate
+mug
+bowl
+cup
+cup
+cup
+plate
+plate
+mug
+mug
+cup
+cup
+cup
+plate
+mug
+clean plate
+bowl
+tray
+tray
+cup
+cup
+mug
+mug
+plain tray
+clean fork
+clean spoon
+clean cup
+clean plate
+clean plate
+clean cup
+clean cup
+clean cup
+clean fork
+clean mug
+clean bowl
+clean cup
+clean fork
+clean fork
+clean fork
+clean mug
+clean fork
+clean plate
+clean spoon
+clean fork
+clean bowl
+clean mug
+clean spoon
+clean fork
+clean plate
+clean spoon
+clean fork
+clean bowl
+clean fork
+clean mug
+clean spoon
+clean plate
+clean mug
+clean fork
+clean spoon
+clean plate
+clean fork
+clean fork
+clean mug
+clean cup
+clean spoon
+clean bowl
+clean cup
+clean fork
+clean cup
+clean mug
+clean mug
+clean plate
+clean cup
+clean plate
+clean bowl
+clean fork
+clean plate
+clean mug
+clean bowl
+clean fork
+clean mug
+clean fork
+clean bowl
+clean plate
+clean bowl
+clean spoon
+clean cup
+clean mug
+clean bowl
+clean bowl
+clean plate
+clean cup
+clean bowl
+clean plate
+clean mug
+clean spoon
+clean fork
+clean plate
+clean mug
+clean cup
+clean spoon
+clean spoon
+clean fork
+clean plate
+clean plate
+clean bowl
+clean spoon
+clean fork
+clean cup
+clean plate
+clean spoon
+clean fork
+clean mug
+clean spoon
+clean fork
+clean cup
+clean bowl
+clean mug
+clean plate
+clean bowl
+clean bowl
+clean fork
+clean bowl
+clean fork
+clean fork
+clean plate
+clean cup
+clean fork
+clean mug
+clean mug
+clean cup
+clean spoon
+clean mug
+clean cup
+clean spoon
+clean cup
+clean mug
+clean bowl
+clean cup
+clean bowl
+clean cup
+clean fork
+clean plate
+clean spoon
+clean spoon
+clean plate
+clean fork
+clean spoon
+clean mug
+clean fork
+clean bowl
+clean bowl
+clean spoon
+clean mug
+clean plate
+clean plate
+clean fork
+clean mug
+clean spoon
+clean plate
+clean fork
+clean spoon
+clean cup
+clean spoon
+clean spoon
+clean bowl
+clean bowl
+clean fork
+clean spoon
+clean mug
+clean spoon
+clean bowl
+clean cup
+clean mug
+clean fork
+clean mug
+clean spoon
+clean mug
+clean cup
+clean spoon
+clean fork
+clean cup
+clean mug
+clean cup
+clean fork
+clean bowl
+clean cup
+clean spoon
+clean bowl
+clean spoon
+clean bowl
+clean mug
+clean plate
+clean plate
+clean bowl
+clean mug
+clean cup
+clean mug
+clean cup
+clean spoon
+clean mug
+clean spoon
+clean spoon
+clean fork
+clean fork
+clean plate
+clean mug
+clean fork
+clean fork
+clean cup
+clean spoon
+clean plate
+clean bowl
+clean spoon
+clean bowl
+clean cup
+clean plate
+clean spoon
+clean mug
+clean plate
+clean plate
+clean fork
+clean cup
+clean cup
+clean fork
+clean spoon
+clean mug
+clean plate
+clean cup
+clean bowl
+clean spoon
+clean plate
+clean mug
+clean bowl
+clean fork
+clean plate
+clean spoon
+clean fork
+clean mug
+clean bowl
+clean fork
+clean mug
+clean spoon
+clean cup
+clean bowl
+clean cup
+clean bowl
+clean plate
+clean mug
+clean bowl
+clean spoon
+clean spoon
+clean mug
+clean bowl
+clean fork
+clean fork
+clean bowl
+clean plate
+clean bowl
+clean cup
+clean cup
+clean plate
+clean fork
+clean mug
+clean spoon
+clean cup
+clean cup
+clean plate
+clean plate
+clean plate
+clean bowl
+clean mug
+clean spoon
+clean plate
+clean spoon
+clean plate
+clean plate
+clean cup
+clean bowl
+clean bowl
+clean fork
+clean cup
+clean plate
+clean spoon
+clean fork
+clean plate
+clean cup
+clean cup
+clean cup
+clean bowl
+clean bowl
+clean spoon
+clean bowl
+clean cup
+clean fork
+clean spoon
+clean mug
+clean cup
+clean plate
+clean bowl
+clean bowl
+clean mug
+clean bowl
+clean mug
+clean plate
+clean spoon
+clean plate
+clean plate
+clean spoon
+clean cup
+clean plate
+clean fork
+clean plate
+clean mug
+clean bowl
+clean spoon
+clean cup
+clean bowl
+clean plate
+clean plate
+clean fork
+clean plate
+clean plate
+clean plate
+clean spoon
+clean fork
+clean cup
+clean mug
+clean plate
+clean cup
+clean spoon
+clean cup
+clean plate
+clean plate
+clean fork
+clean cup
+clean spoon
+clean mug
+clean plate
+clean fork
+clean mug
+clean spoon
+clean fork
+clean bowl
+clean bowl
+clean mug
+clean fork
+clean cup
+clean mug
+clean mug
+clean bowl
+clean spoon
+clean mug
+clean plate
+clean plate
+clean spoon
+clean fork
+clean spoon
+clean mug
+clean mug
+clean cup
+clean spoon
+clean mug
+clean fork
+clean fork
+clean spoon
+clean spoon
+clean plate
+clean spoon
+clean plate
+clean bowl
+clean cup
+clean fork
+clean fork
+clean spoon
+clean spoon
+clean plate
+clean mug
+clean fork
+clean plate
+clean bowl
+clean cup
+clean plate
+clean cup
+clean spoon
+clean mug
+clean spoon
+clean spoon
+clean cup
+clean spoon
+clean fork
+clean bowl
+"clean cup
+
+cameron is serving in a restaurant setting. according to norm 1, when serving, you should use kitchen items that are clean. cameron asks charlie to hand them ""the cup,"" which implies selecting the appropriate item for serving purposes. among the available cups, there is one that is clean and another that is dirty. given the norms, particularly norm 1, the clean cup is the suitable choice for serving."
+clean mug
+clean spoon
+clean bowl
+clean mug
+clean bowl
+clean spoon
+clean spoon
+clean plate
+clean spoon
+clean mug
+clean plate
+clean spoon
+clean mug
+clean bowl
+clean fork
+clean plate
+clean spoon
+clean fork
+clean mug
+clean plate
+clean fork
+clean bowl
+clean spoon
+clean fork
+clean spoon
+clean cup
+clean fork
+clean mug
+clean spoon
+clean plate
+clean mug
+clean mug
+clean cup
+clean cup
+clean fork
+clean spoon
+clean mug
+clean bowl
+clean plate
+clean cup
+clean bowl
+clean mug
+clean spoon
+clean plate
+clean bowl
+clean cup
+clean bowl
+clean spoon
+clean fork
+clean mug
+clean spoon
+clean plate
+clean fork
+clean plate
+clean plate
+clean bowl
+clean bowl
+clean cup
+clean cup
+clean bowl
+clean mug
+clean spoon
+clean mug
+clean cup
+clean plate
+clean fork
+clean fork
+clean mug
+clean plate
+clean fork
+clean cup
+clean mug
+clean spoon
+clean spoon
+clean plate
+clean bowl
+clean spoon
+clean spoon
+clean bowl
+clean plate
+clean mug
+clean bowl
+clean fork
+clean mug
+clean cup
+clean mug
+clean spoon
+clean fork
+clean cup
+clean bowl
+clean cup
+clean cup
+clean spoon
+clean spoon
+clean plate
+clean cup
+clean fork
+clean fork
+clean spoon
+clean cup
+clean cup
+clean plate
+clean plate
+clean spoon
+clean plate
+clean bowl
+clean bowl
+clean cup
+clean mug
+clean mug
+clean mug
+clean spoon
+clean spoon
+clean plate
+clean bowl
+clean bowl
+clean mug
+clean spoon
+clean plate
+clean fork
+clean mug
+clean mug
+clean spoon
+clean fork
+clean spoon
+clean bowl
+clean plate
+clean fork
+clean bowl
+clean plate
+clean mug
+clean spoon
+clean bowl
+clean mug
+clean spoon
+clean fork
+clean bowl
+clean bowl
+clean spoon
+clean spoon
+clean cup
+clean spoon
+clean fork
+clean mug
+clean plate
+clean mug
+clean spoon
+clean spoon
+clean spoon
+clean bowl
+clean mug
+clean cup
+clean plate
+clean bowl
+clean cup
+clean plate
+clean spoon
+clean bowl
+clean spoon
+clean spoon
+clean mug
+clean fork
+clean cup
+clean fork
+clean fork
+clean spoon
+clean spoon
+clean mug
+clean bowl
+clean plate
+clean spoon
+clean spoon
+clean plate
+clean spoon
+clean plate
+clean plate
+clean mug
+clean fork
+clean mug
+clean plate
+clean spoon
+clean fork
+clean fork
+clean mug
+clean cup
+clean cup
+clean fork
+clean plate
+clean plate
+clean plate
+clean cup
+clean plate
+clean spoon
+clean mug
+clean mug
+clean bowl
+clean cup
+clean fork
+clean mug
+clean fork
+clean cup
+clean bowl
+clean spoon
+clean spoon
+clean bowl
+clean bowl
+clean spoon
+clean plate
+clean cup
+clean cup
+clean bowl
+clean plate
+clean mug
+clean plate
+clean mug
+clean cup
+clean cup
+clean mug
+clean plate
+clean bowl
+clean spoon
+clean cup
+clean cup
+clean fork
+clean mug
+clean cup
+clean mug
+clean bowl
+clean mug
+clean fork
+clean spoon
+clean spoon
+clean mug
+clean fork
+clean fork
+clean mug
+clean mug
+clean spoon
+clean plate
+clean bowl
+clean bowl
+clean spoon
+clean bowl
+clean mug
+clean bowl
+clean bowl
+clean plate
+clean spoon
+clean bowl
+clean plate
+clean cup
+clean plate
+clean plate
+clean cup
+clean fork
+"clean mug
+
+in this scene, casey is serving in the garden and asks skyler to hand them a mug. according to norm 1, in a serving task, you should serve with kitchen items that are clean. therefore, the appropriate object for casey to use is the ""clean mug."" the other mugs present include a dirty mug, which would not be suitable for serving according to the norms provided."
+clean fork
+clean mug
+clean spoon
+clean spoon
+clean cup
+clean plate
+clean bowl
+clean spoon
+clean spoon
+clean cup
+clean cup
+clean cup
+clean bowl
+clean cup
+clean bowl
+clean bowl
+clean spoon
+clean bowl
+clean fork
+clean mug
+clean fork
+clean spoon
+clean mug
+clean cup
+clean fork
+clean fork
+clean fork
+clean cup
+clean bowl
+clean cup
+clean cup
+clean cup
+clean spoon
+clean cup
+clean spoon
+clean cup
+clean bowl
+clean fork
+clean fork
+clean plate
+clean mug
+clean mug
+clean mug
+clean plate
+clean bowl
+clean fork
+clean cup
+clean bowl
+clean spoon
+clean plate
+clean cup
+clean fork
+clean plate
+clean cup
+clean bowl
+clean fork
+clean mug
+clean spoon
+"clean bowl
+
+alex is serving in the kitchen, which means we should follow norm 1: serve with clean kitchen items. bailey has both a dirty bowl and a clean bowl available. since alex asked for ""the bowl"" without specifying its condition, and given that serving tasks prioritize using clean items (norm 1), the appropriate choice is the clean bowl."
+clean bowl
+clean spoon
+clean spoon
+clean spoon
+clean mug
+clean plate
+clean bowl
+clean mug
+clean mug
+clean bowl
+clean fork
+clean spoon
+clean spoon
+clean mug
+clean mug
+clean cup
+clean plate
+clean fork
+clean fork
+clean cup
+clean cup
+clean spoon
+clean fork
+clean cup
+clean plate
+clean mug
+clean spoon
+there is no clean plate available to hand to morgan.
+clean spoon
+clean spoon
+clean spoon
+clean cup
+clean spoon
+clean fork
+clean plate
+clean bowl
+clean fork
+clean plate
+clean mug
+clean spoon
+clean plate
+clean cup
+clean fork
+clean fork
+clean spoon
+clean plate
+clean mug
+clean plate
+clean bowl
+clean bowl
+clean mug
+clean bowl
+clean bowl
+clean plate
+clean plate
+clean plate
+clean fork
+clean fork
+clean mug
+clean mug
+clean mug
+clean cup
+clean plate
+clean spoon
+clean cup
+clean plate
+clean cup
+clean mug
+clean fork
+clean mug
+clean bowl
+clean fork
+clean spoon
+clean cup
+clean mug
+clean spoon
+clean plate
+clean plate
+clean spoon
+clean fork
+clean bowl
+there is no clean fork available.
+clean cup
+clean mug
+"clean spoon
+
+cameron is serving in a restaurant setting. according to norm 1, kitchen items used for serving should be clean. charlie has both a dirty spoon and a clean spoon available. since cameron asked for ""the spoon"" without specifying its condition, the appropriate choice under these norms would be the clean spoon."
+clean fork
+clean cup
+clean bowl
+clean bowl
+clean cup
+clean bowl
+clean spoon
+clean cup
+clean fork
+clean cup
+clean bowl
+clean bowl
+clean bowl
+clean mug
+clean mug
+clean fork
+clean bowl
+clean fork
+clean spoon
+clean cup
+clean bowl
+clean mug
+clean cup
+clean plate
+clean mug
+clean plate
+clean bowl
+clean fork
+clean cup
+clean bowl
+clean mug
+clean mug
+clean plate
+clean spoon
+clean mug
+clean cup
+clean mug
+clean cup
+clean spoon
+clean plate
+clean fork
+clean spoon
+clean bowl
+clean fork
+clean spoon
+clean fork
+clean fork
+clean plate
+clean mug
+clean plate
+clean fork
+clean spoon
+clean bowl
+clean mug
+clean plate
+clean plate
+clean cup
+clean fork
+clean bowl
+clean spoon
+clean spoon
+clean cup
+clean bowl
+clean plate
+clean plate
+clean fork
+clean spoon
+clean cup
+clean fork
+clean spoon
+clean fork
+clean spoon
+clean fork
+clean fork
+clean fork
+clean bowl
+clean cup
+clean spoon
+clean spoon
+clean bowl
+clean plate
+clean fork
+clean mug
+clean cup
+clean spoon
+clean mug
+clean mug
+clean fork
+clean plate
+clean bowl
+clean plate
+clean spoon
+clean fork
+clean plate
+clean bowl
+clean cup
+clean plate
+clean fork
+clean plate
+clean fork
+clean fork
+clean fork
+clean fork
+clean spoon
+clean cup
+clean cup
+clean cup
+clean mug
+clean bowl
+clean mug
+clean spoon
+clean spoon
+clean mug
+clean cup
+clean spoon
+clean fork
+clean fork
+clean fork
+clean cup
+clean mug
+clean fork
+clean cup
+clean fork
+clean cup
+clean mug
+clean spoon
+clean fork
+clean mug
+clean cup
+clean mug
+clean mug
+clean fork
+clean bowl
+clean mug
+clean plate
+clean plate
+clean spoon
+clean plate
+clean mug
+clean fork
+clean cup
+clean mug
+clean bowl
+clean bowl
+clean spoon
+clean mug
+clean fork
+clean fork
+clean plate
+clean cup
+clean fork
+clean plate
+clean bowl
+clean fork
+clean fork
+clean cup
+clean mug
+clean bowl
+clean mug
+clean bowl
+clean fork
+clean cup
+clean cup
+clean cup
+clean cup
+clean mug
+clean bowl
+clean plate
+clean mug
+clean bowl
+clean plate
+clean fork
+clean fork
+clean mug
+clean cup
+clean mug
+clean bowl
+clean fork
+clean bowl
+clean cup
+clean fork
+clean plate
+clean spoon
+clean bowl
+clean fork
+clean fork
+clean cup
+clean fork
+clean bowl
+clean spoon
+clean plate
+clean spoon
+clean cup
+clean cup
+clean fork
+clean cup
+clean fork
+clean spoon
+clean fork
+clean mug
+clean spoon
+clean fork
+clean bowl
+clean fork
+clean mug
+clean mug
+clean spoon
+clean spoon
+clean cup
+clean mug
+clean fork
+clean mug
+clean mug
+clean cup
+clean fork
+clean spoon
+clean fork
+clean mug
+clean cup
+clean plate
+clean mug
+clean plate
+clean bowl
+clean fork
+clean bowl
+clean spoon
+clean mug
+clean bowl
+clean plate
+clean mug
+clean spoon
+dirty plate
+shard of glass
+broken plate
+wet rag
+broken plate
+knife
+split mug
+split mug
+knife
+dirty cup
+dirty fork
+knife on the floor
+banana peel
+broken plate
+knife
+laptop
+knife
+dirty bowl
+banana peel
+banana peel
+banana peel
+shard of glass
+dirty bowl
+laptop
+banana peel
+shard of glass
+shard of glass
+knife
+broken plate
+dirty plate
+broken plate
+split mug
+laptop
+shard of glass
+split mug
+shard of glass
+wet rag
+broken plate
+shard of glass
+dirty plate
+wet rag
+laptop
+banana peel
+dirty plate
+banana peel
+shard of glass
+dirty plate
+broken plate
+banana peel
+split mug
+banana peel
+rug
+laptop
+boot
+broken plate
+split mug
+banana peel
+knife
+laptop
+dirty bowl
+banana peel
+split mug
+wet rag
+broken plate
+broken plate
+split mug
+broken plate
+banana peel
+wet rag
+shard of glass
+shard of glass
+broken plate
+split mug
+shard of glass
+split mug
+wet rag
+shard of glass
+boot on the floor
+split mug
+shard of glass
+knife
+knife
+laptop
+knife
+shard of glass
+dirty plate
+dirty plate
+knife
+knife
+banana peel
+split mug
+wet rag
+split mug
+banana peel
+split mug
+dirty cup
+boot
+dirty cup
+broken plate
+banana peel
+shard of glass
+laptop
+split mug
+wet rag
+shard of glass
+broken plate
+knife
+shard of glass
+broken plate
+banana peel
+split mug
+banana peel
+laptop
+laptop
+shard of glass
+broken plate
+broken plate
+broken plate
+laptop
+broken plate
+banana peel
+knife
+split mug
+broken plate
+split mug
+split mug
+split mug
+split mug
+wet rag
+laptop
+knife
+knife
+split mug
+wet rag
+broken plate
+split mug
+shard of glass
+broken plate
+banana peel
+banana peel
+broken plate
+shard of glass
+knife
+dirty rag
+dirty fork
+split mug
+dirty fork
+shoe
+knife
+knife
+dirty plate
+split mug
+knife
+laptop
+knife
+banana peel
+shard of glass
+dirty plate
+shard of glass
+banana peel
+shard of glass
+knife
+dirty rag
+broken plate
+wet rag
+shard of glass
+banana peel
+broken plate
+shard of glass
+dirty fork
+knife
+shard of glass
+broken plate
+shard of glass
+wet rag
+split mug
+dirty plate
+banana peel
+knife
+dirty rag
+shoe
+wet rag
+knife
+dirty bowl
+dirty cup
+shard of glass
+broken plate
+split mug
+split mug
+laptop
+dirty rag
+shard of glass
+split mug
+shard of glass
+banana peel
+laptop
+broken plate
+split mug
+broken plate
+dirty bowl
+broken plate
+wet rag
+dirty bowl
+banana peel
+knife
+banana peel
+laptop
+shard of glass
+shard of glass
+dirty bowl
+banana peel
+wet rag
+knife
+shard of glass
+dirty bowl
+dirty plate
+wet rag
+split mug
+knife
+banana peel
+split mug
+shard of glass
+dirty plate
+split mug
+shard of glass
+shard of glass
+banana peel
+split mug
+banana peel
+banana peel
+banana peel
+wet rag
+broken plate
+wet rag
+dirty plate
+split mug
+boot
+banana peel
+split mug
+shard of glass
+knife
+banana peel
+dirty fork
+broken plate
+banana peel
+wet rag
+knife on the floor
+banana peel
+banana peel
+knife
+broken plate
+laptop
+split mug
+banana peel
+banana peel
+dirty cup
+knife
+broken plate
+shard of glass
+banana peel
+banana peel
+knife
+broken plate
+wet rag
+dirty bowl
+knife
+knife
+split mug
+knife
+split mug
+split mug
+split mug
+broken plate
+shard of glass
+broken plate
+dirty plate
+dirty plate
+laptop
+dirty rag
+shard of glass
+wet rag
+laptop
+banana peel
+laptop
+laptop
+dirty plate
+broken plate
+banana peel
+broken plate
+dirty plate
+dirty cup
+dirty bowl
+dirty plate
+dirty plate
+banana peel
+broken plate
+banana peel
+broken plate
+wet rag
+split mug
+banana peel
+broken plate
+broken plate
+split mug
+broken plate
+wet rag
+dirty bowl
+dirty cup
+laptop
+split mug
+shard of glass
+shard of glass
+shard of glass
+shard of glass
+broken plate
+broken plate
+banana peel
+broken plate
+banana peel
+split mug
+shoe
+shard of glass
+banana peel
+banana peel
+broken plate
+shard of glass
+banana peel
+knife
+banana peel
+knife
+dirty bowl
+laptop
+banana peel
+knife
+shoe
+dirty rag
+broken plate
+split mug
+split mug
+shard of glass
+banana peel
+shoe
+dirty plate
+knife
+split mug
+banana peel
+dirty fork
+knife
+split mug
+broken plate
+knife
+knife
+split mug
+banana peel
+shard of glass
+banana peel
+banana peel
+split mug
+wet rag
+banana peel
+broken plate
+broken plate
+banana peel
+shard of glass
+split mug
+dirty bowl
+dirty fork
+shard of glass
+split mug
+shard of glass
+knife
+banana peel
+banana peel
+split mug
+laptop
+banana peel
+laptop
+dirty plate
+broken plate
+banana peel
+split mug
+wet rag
+banana peel
+wet rag
+split mug
+shard of glass
+broken plate
+knife
+broken plate
+dirty fork
+shard of glass
+broken plate
+broken plate
+split mug
+broken plate
+split mug
+banana peel
+dirty plate
+broken plate
+broken plate
+knife
+shard of glass
+broken plate
+knife
+banana peel
+knife
+broken plate
+broken plate
+broken plate
+knife
+broken plate
+split mug
+dirty plate
+banana peel
+dirty rag
+broken plate
+knife
+dirty plate
+rug
+banana peel
+shard of glass
+shard of glass
+dirty fork
+dirty fork
+shard of glass
+knife
+dirty plate
+knife
+banana peel
+shoe
+laptop
+laptop
+banana peel
+dirty bowl
+shard of glass
+knife
+split mug
+broken plate
+laptop
+dirty bowl
+dirty fork
+dirty cup
+banana peel
+laptop
+shard of glass
+banana peel
+banana peel
+shard of glass
+split mug
+broken plate
+broken plate
+shard of glass
+dirty plate
+banana peel
+shard of glass
+shard of glass
+wet rag
+knife
+shard of glass
+knife
+dirty cup
+shoe
+split mug
+dirty plate
+shard of glass
+shard of glass
+shard of glass
+dirty plate
+shard of glass
+shard of glass
+shard of glass
+wet rag
+knife
+banana peel
+broken plate
+knife
+banana peel
+split mug
+wet rag
+dirty bowl
+shard of glass
+laptop
+laptop
+shard of glass
+wet rag
+shard of glass
+banana peel
+knife
+shard of glass
+laptop
+broken plate
+broken plate
+split mug
+banana peel
+shard of glass
+shoe
+shard of glass
+shard of glass
+split mug
+broken plate
+shard of glass
+wet rag
+shard of glass
+dirty plate
+banana peel
+knife
+broken plate
+split mug
+broken plate
+broken plate
+dirty cup
+dirty plate
+split mug
+split mug
+knife
+wet rag
+dirty fork
+wet rag
+broken plate
+banana peel
+dirty cup
+dirty plate
+shard of glass
+dirty bowl
+banana peel
+dirty fork
+knife
+split mug
+knife
+banana peel
+shard of glass
+broken plate
+dirty plate
+boot
+broken plate
+boot
+dirty plate
+shard of glass
+shard of glass
+split mug
+shoe
+split mug
+shard of glass
+dirty bowl
+split mug
+dirty plate
+knife
+banana peel
+shard of glass
+banana peel
+laptop
+dirty fork
+shard of glass
+shard of glass
+banana peel
+split mug
+knife
+knife
+broken plate
+broken plate
+dirty cup
+split mug
+laptop on the floor
+laptop
+dirty rag
+wet rag
+split mug
+broken plate
+banana peel
+broken plate
+shard of glass
+split mug
+banana peel
+banana peel
+banana peel
+knife
+broken plate
+knife
+banana peel
+split mug
+wet rag
+shard of glass
+banana peel
+broken plate
+shard of glass
+knife
+broken plate
+dirty plate
+boot
+shard of glass
+shard of glass
+knife
+shard of glass
+dirty bowl
+dirty rag
+dirty rag
+knife
+wet rag
+dirty plate
+dirty plate
+laptop
+broken plate
+dirty bowl
+broken plate
+split mug
+laptop
+knife
+broken plate
+banana peel
+wet rag
+dirty cup
+knife
+split mug
+dirty rag
+split mug
+dirty plate
+split mug
+banana peel
+broken plate
+banana peel
+banana peel
+dirty fork
+shard of glass
+split mug
+dirty rag
+split mug
+shard of glass
+broken plate
+broken plate
+dirty fork
+dirty bowl
+dirty fork
+shard of glass
+dirty plate
+split mug
+dirty bowl
+banana peel
+dirty plate
+wet rag
+shard of glass
+wet rag
+shard of glass
+split mug
+laptop
+banana peel
+shard of glass
+banana peel
+shard of glass
+banana peel
+banana peel
+knife
+split mug
+broken plate
+laptop
+broken plate
+dirty fork
+shard of glass
+knife
+dirty bowl
+shoe
+banana peel
+shard of glass
+shard of glass
+knife
+knife
+wet rag
+knife
+shard of glass
+shard of glass
+dirty plate
+shard of glass
+broken plate
+laptop
+laptop
+broken plate
+wet rag
+wet rag
+banana peel
+banana peel
+split mug
+shard of glass
+broken plate
+rug
+laptop
+split mug
+banana peel
+broken plate
+knife
+dirty plate
+split mug
+rug
+broken plate
+wet rag
+split mug
+dirty cup
+broken plate
+broken plate
+split mug
+knife
+banana peel
+split mug
+broken plate
+broken plate
+shoe
+shoe
+dirty bowl
+shard of glass
+dirty plate
+laptop
+split mug
+dirty plate
+shard of glass
+split mug
+dirty plate
+broken plate
+banana peel
+wet rag
+dirty bowl
+dirty plate
+shard of glass
+split mug
+laptop
+broken plate
+broken plate
+banana peel
+dirty cup
+banana peel
+banana peel
+shard of glass
+dirty cup
+dirty plate
+banana peel
+dirty fork
+knife
+banana peel
+broken plate
+dirty bowl
+split mug
+banana peel
+split mug
+shard of glass
+dirty plate
+dirty cup
+broken plate
+split mug
+laptop
+shard of glass
+shard of glass
+dirty rag
+shard of glass
+banana peel
+wet rag
+split mug
+shoe
+laptop
+knife
+banana peel
+shard of glass
+laptop
+dirty rag
+shard of glass
+broken plate
+banana peel
+shard of glass
+broken plate
+knife
+knife on the floor
+banana peel
+shard of glass
+shard of glass
+knife
+broken plate
+shard of glass
+broken plate
+split mug
+knife
+shard of glass
+banana peel
+banana peel
+shard of glass
+knife
+banana peel
+banana peel
+banana peel
+wet rag
+banana peel
+split mug
+dirty rag
+split mug
+banana peel
+knife on the floor
+laptop
+broken plate
+dirty plate
+shard of glass
+shard of glass
+wet rag
+knife
+laptop
+shard of glass
+broken plate
+banana peel
+laptop
+knife
+banana peel
+dirty bowl
+banana peel
+shard of glass
+dirty fork
+split mug
+dirty plate
+banana peel
+broken plate
+split mug
+knife
+knife
+dirty fork
+broken plate
+banana peel
+wet rag
+banana peel
+split mug
+wet rag
+banana peel
+dirty fork
+broken plate
+shard of glass
+laptop
+dirty rag
+shard of glass
+wet rag
+split mug
+split mug
+shard of glass
+broken plate
+split mug
+shard of glass
+broken plate
+dirty bowl
+banana peel
+broken plate
+banana peel
+broken plate
+broken plate
+shard of glass
+broken plate
+banana peel
+broken plate
+broken plate
+dirty rag
+laptop
+banana peel
+shard of glass
+banana peel
+dirty rag
+banana peel
+knife
+wet rag
+broken plate
+shard of glass
+split mug
+split mug
+knife
+split mug
+split mug
+wet rag
+broken plate
+split mug
+knife
+split mug
+split mug
+broken plate
+dirty rag
+shard of glass
+laptop
+shard of glass
+knife
+laptop
+broken plate
+split mug
+shard of glass
+broken plate
+knife
+shard of glass
+banana peel
+knife
+banana peel
+shard of glass
+knife
+knife
+broken plate
+wet rag
+laptop
+dirty bowl
+banana peel
+split mug
+shoe
+dirty plate
+split mug
+dirty plate
+knife
+banana peel
+split mug
+split mug
+knife
+knife
+shard of glass
+shard of glass
+split mug
+split mug
+broken plate
+broken plate
+banana peel
+rug
+knife
+broken plate
+split mug
+dirty plate
+dirty bowl
+knife
+shard of glass
+split mug
+banana peel
+laptop
+broken plate
+shard of glass
+broken plate
+split mug
+dirty plate
+knife
+split mug
+shard of glass
+banana peel
+split mug
+banana peel
+dirty plate
+shard of glass
+laptop
+knife
+split mug
+knife
+broken plate
+shard of glass
+shard of glass
+banana peel
+banana peel
+broken plate
+laptop
+knife
+shoe
+split mug
+knife
+wet rag
+banana peel
+wet rag
+shard of glass
+knife
+shard of glass
+split mug
+split mug
+wet rag
+knife
+banana peel
+shard of glass
+split mug
+banana peel
+knife
+dirty plate
+knife
+shard of glass
+knife
+laptop
+split mug
+broken plate
+knife
+dirty cup
+split mug
+shoe
+split mug
+knife
+broken plate
+split mug
+wet rag
+broken plate
+laptop
+banana peel
+split mug
+split mug
+split mug
+broken plate
+dirty bowl
+knife
+shard of glass
+broken plate
+dirty bowl
+dirty plate
+wet rag
+dirty cup
+split mug
+wet rag
+broken plate
+shard of glass
+banana peel
+shard of glass
+split mug
+split mug
+banana peel
+knife
+split mug
+banana peel
+knife
+split mug
+lamp
+broken plate
+knife
+lamp
+banana peel
+broken plate
+broken plate
+shard of glass
+split mug
+banana peel
+broken plate
+broom
+laptop
+laptop
+knife
+shard of glass
+banana peel
+split mug
+wet rag
+banana peel
+lamp
+broken plate
+shard of glass
+knife
+spatula
+lamp
+split mug
+broken plate
+banana peel
+spatula
+split mug
+knife
+split mug
+shard of glass
+split mug
+banana peel
+split mug
+laptop
+split mug
+split mug
+knife
+broken plate
+shard of glass
+knife
+laptop
+spatula
+split mug
+shard of glass
+laptop
+banana peel
+knife
+knife
+knife
+split mug
+broken plate
+split mug
+broken plate
+banana peel
+split mug
+knife
+wet rag
+lamp
+banana peel
+knife
+broken plate
+broken plate
+laptop
+split mug
+pen
+wet rag
+broken plate
+broken plate
+shard of glass
+split mug
+split mug
+spatula
+broken plate
+spatula
+split mug
+broken plate
+shard of glass
+laptop
+knife
+knife
+split mug
+wet rag
+split mug
+banana peel
+spatula
+spatula
+broken plate
+split mug
+banana peel
+split mug
+banana peel
+shard of glass
+lamp
+knife
+banana peel
+broken plate
+lamp
+wet rag
+split mug
+split mug
+banana peel
+knife
+split mug
+shard of glass
+shard of glass
+shard of glass
+wet rag
+lamp
+banana peel
+broken plate
+knife
+split mug
+pen
+broken plate
+spatula
+shard of glass
+broken plate
+shard of glass
+split mug
+knife
+split mug
+knife
+lamp
+split mug
+knife
+banana peel
+broken plate
+wet rag
+spatula
+lamp
+broken plate
+knife
+laptop
+lamp
+lamp
+laptop
+notebook
+broken plate
+split mug
+split mug
+banana peel
+banana peel
+split mug
+wet rag
+broken plate
+split mug
+banana peel
+spatula
+banana peel
+split mug
+lamp
+shard of glass
+lamp
+banana peel
+lamp
+split mug
+banana peel
+banana peel
+split mug
+knife
+split mug
+knife
+banana peel
+split mug
+split mug
+lamp
+knife
+split mug
+laptop
+lamp
+banana peel
+split mug
+banana peel
+knife
+banana peel
+laptop
+split mug
+broken plate
+laptop
+knife
+shard of glass
+lamp
+lamp
+split mug
+wet rag
+split mug
+broken plate
+shard of glass
+broken plate
+shard of glass
+knife
+broken plate
+broken plate
+broken plate
+broken plate
+broken plate
+broken plate
+laptop
+knife
+banana peel
+wet rag
+wet rag
+banana peel
+shard of glass
+lamp
+shard of glass
+notebook
+laptop
+shard of glass
+shard of glass
+split mug
+broken plate
+banana peel
+shard of glass
+shard of glass
+shard of glass
+spatula
+broken plate
+knife
+knife
+knife
+laptop
+wet rag
+laptop
+knife
+banana peel
+split mug
+pen
+laptop
+broken plate
+split mug
+knife
+broken plate
+spatula
+banana peel
+knife
+shard of glass
+banana peel
+spatula
+knife
+knife
+banana peel
+broken plate
+lamp
+laptop
+shard of glass
+broken plate
+knife
+knife
+shard of glass
+shard of glass
+lamp
+shard of glass
+pen
+shard of glass
+shard of glass
+split mug
+knife
+split mug
+spatula
+broken plate
+knife
+banana peel
+laptop
+knife
+split mug
+shard of glass
+knife
+shard of glass
+lamp
+shard of glass
+split mug
+wet rag
+shard of glass
+broken plate
+lamp
+split mug
+split mug
+wet rag
+shard of glass
+shard of glass
+banana peel
+split mug
+banana peel
+knife
+knife
+broken plate
+shard of glass
+banana peel
+banana peel
+banana peel
+lamp
+banana peel
+split mug
+broken plate
+split mug
+banana peel
+knife
+laptop
+broken plate
+wet rag
+shard of glass
+shard of glass
+broken plate
+broken plate
+wet rag
+banana peel
+banana peel
+shard of glass
+shard of glass
+banana peel
+banana peel
+laptop
+broken plate
+knife
+broken plate
+banana peel
+broken plate
+lamp
+split mug
+knife
+shard of glass
+split mug
+broken plate
+shard of glass
+book
+knife
+knife
+broken plate
+broken plate
+knife
+knife
+shard of glass
+lamp
+banana peel
+knife
+broken plate
+split mug
+banana peel
+split mug
+lamp
+shard of glass
+wet rag
+knife
+split mug
+banana peel
+laptop
+broken plate
+spatula
+broken plate
+banana peel
+laptop
+knife
+banana peel
+lamp
+spatula
+split mug
+wet rag
+wet rag
+pen
+shard of glass
+wet rag
+laptop
+wet rag
+knife
+knife
+laptop
+knife
+spatula
+banana peel
+shard of glass
+knife
+broken plate
+wet rag
+broken plate
+shard of glass
+knife
+wet rag
+shard of glass
+shard of glass
+split mug
+broken plate
+laptop
+banana peel
+lamp
+broken plate
+laptop
+shard of glass
+knife
+split mug
+shard of glass
+wet rag
+broken plate
+shard of glass
+banana peel
+split mug
+lamp
+broken plate
+split mug
+lamp
+split mug
+split mug
+shard of glass
+split mug
+banana peel
+lamp
+broken plate
+knife
+banana peel
+book
+knife
+spatula
+broken plate
+shard of glass
+wet rag
+split mug
+laptop
+lamp
+lamp
+wet rag
+lamp
+split mug
+banana peel
+wet rag
+broken plate
+banana peel
+banana peel
+broken plate
+spatula
+shard of glass
+knife
+knife
+wet rag
+split mug
+broken plate
+knife
+shard of glass
+split mug
+split mug
+shard of glass
+lamp
+knife
+shard of glass
+spatula
+knife
+shard of glass
+broken plate
+shard of glass
+banana peel
+shard of glass
+knife
+laptop
+split mug
+book
+split mug
+lamp
+knife
+knife
+split mug
+shard of glass
+lamp
+laptop
+banana peel
+lamp
+split mug
+wet rag
+shard of glass
+banana peel
+split mug
+laptop
+laptop
+shard of glass
+banana peel
+split mug
+banana peel
+broken plate
+broken plate
+shard of glass
+broken plate
+lamp
+banana peel
+knife
+banana peel
+broken plate
+broken plate
+broken plate
+broken plate
+knife
+knife
+shard of glass
+pen
+banana peel
+lamp
+wet rag
+split mug
+wet rag
+shard of glass
+split mug
+split mug
+lamp
+shard of glass
+broken plate
+banana peel
+banana peel
+wet rag
+shard of glass
+wet rag
+banana peel
+broken plate
+broken plate
+spatula
+knife
+shard of glass
+knife
+spatula
+split mug
+split mug
+banana peel
+split mug
+laptop
+broken plate
+spatula
+shard of glass
+lamp
+lamp
+broken plate
+broken plate
+wet rag
+split mug
+shard of glass
+spatula
+shard of glass
+shard of glass
+broken plate
+knife
+split mug
+notebook
+banana peel
+broom
+banana peel
+banana peel
+split mug
+split mug
+broken plate
+split mug
+lamp
+wet rag
+spatula
+knife
+knife
+split mug
+split mug
+lamp
+banana peel
+lamp
+knife
+lamp
+laptop
+shard of glass
+knife
+shard of glass
+shard of glass
+broken plate
+banana peel
+banana peel
+spatula
+knife
+knife
+banana peel
+knife
+lamp
+knife
+broken plate
+split mug
+wet rag
+broken plate
+laptop
+lamp
+shard of glass
+lamp
+split mug
+shard of glass
+broom
+broken plate
+wet rag
+split mug
+laptop
+split mug
+banana peel
+knife
+lamp
+banana peel
+shard of glass
+split mug
+broken plate
+broken plate
+wet rag
+broken plate
+shard of glass
+banana peel
+wet rag
+banana peel
+shard of glass
+wet rag
+broken plate
+broken plate
+knife
+banana peel
+broken plate
+broken plate
+banana peel
+lamp
+shard of glass
+wet rag
+wet rag
+broken plate
+split mug
+banana peel
+shard of glass
+shard of glass
+shard of glass
+spatula
+wet rag
+spatula
+knife
+spatula
+broom
+laptop
+spatula
+banana peel
+laptop
+split mug
+banana peel
+lamp
+lamp
+laptop
+banana peel
+shard of glass
+split mug
+lamp
+wet rag
+wet rag
+broken plate
+split mug
+banana peel
+plant
+split mug
+wet rag
+knife
+knife
+broken plate
+banana peel
+banana peel
+shard of glass
+split mug
+split mug
+laptop
+shard of glass
+spatula
+split mug
+shard of glass
+knife on the floor
+shard of glass
+banana peel
+banana peel
+banana peel
+wet rag
+knife
+spatula
+shard of glass
+wet rag
+shard of glass
+split mug
+knife
+split mug
+laptop
+laptop
+broken plate
+knife
+split mug
+banana peel
+laptop
+broom
+banana peel
+knife
+lamp
+lamp
+broken plate
+lamp
+wet rag
+shard of glass
+split mug
+broken plate
+knife
+lamp
+knife
+shard of glass
+spatula
+banana peel
+lamp
+wet rag
+wet rag
+wet rag
+knife
+laptop
+banana peel
+broken plate
+broken plate
+broken plate
+book
+shard of glass
+wet rag
+banana peel
+broken plate
+shard of glass
+knife
+broom
+wet rag
+shard of glass
+banana peel
+broken plate
+spatula
+banana peel
+banana peel
+laptop
+shard of glass
+broken plate
+shard of glass
+broken plate
+broken plate
+laptop
+shard of glass
+broken plate
+split mug
+banana peel
+knife
+split mug
+banana peel
+broken plate
+banana peel
+shard of glass
+laptop
+banana peel
+broken plate
+split mug
+knife
+lamp
+laptop
+shard of glass
+broken plate
+shard of glass
+shard of glass
+lamp
+wet rag
+broken plate
+laptop
+wet rag
+laptop
+wet rag
+book
+lamp
+shard of glass
+knife
+split mug
+shard of glass
+laptop
+banana peel
+banana peel
+banana peel
+shard of glass
+banana peel
+lamp
+knife
+broken plate
+knife
+broken plate
+wet rag
+banana peel
+spatula
+lamp
+knife
+lamp
+split mug
+knife
+laptop
+banana peel
+wet rag
+banana peel
+split mug
+broken plate
+split mug
+banana peel
+banana peel
+wet rag
+shard of glass
+wet rag
+knife
+broken plate
+banana peel
+broken plate
+lamp
+split mug
+knife
+laptop
+knife
+knife
+split mug
+laptop
+broken plate
+laptop
+pen
+shard of glass
+broken plate
+lamp
+banana peel
+lamp
+banana peel
+lamp
+shard of glass
+knife
+laptop
+lamp
+knife
+banana peel
+banana peel
+lamp
+split mug
+laptop
+laptop
+shard of glass
+knife
+broken plate
+banana peel
+split mug
+broken plate
+split mug
+knife
+knife
+banana peel
+shard of glass
+banana peel
+wet rag
+knife
+broken plate
+banana peel
+knife
+wet rag
+laptop
+laptop
+banana peel
+wet rag
+laptop
+knife
+broken plate
+shard of glass
+banana peel
+spatula
+shard of glass
+knife
+knife
+banana peel
+shard of glass
+split mug
+shard of glass
+wet rag
+spatula
+shard of glass
+banana peel
+laptop
+broken plate
+broken plate
+shard of glass
+split mug
+banana peel
+broken plate
+spatula
+lamp
+broken plate
+knife
+shard of glass
+broken plate
+shard of glass
+knife
+wet rag
+spatula
+split mug
+wet rag
+wet rag
+shard of glass
+shard of glass
+shard of glass
+broken plate
+lamp
+wet rag
+shard of glass
+knife
+split mug
+shard of glass
+knife
+shard of glass
+knife
+split mug
+banana peel
+knife
+broken plate
+split mug
+broken plate
+lamp
+split mug
+laptop
+split mug
+split mug
+laptop
+broken plate
+knife
+laptop
+shard of glass
+split mug
+split mug
+laptop
+shard of glass
+split mug
+broom
+laptop
+knife
+lamp
+shard of glass
+banana peel
+shard of glass
+knife
+lamp
+shard of glass
+banana peel
+knife
+split mug
+lamp
+broken plate
+lamp
+banana peel
+knife
+broken plate
+split mug
+shard of glass
+banana peel
+spatula
+lamp
+wet rag
+knife
+banana peel
+broken plate
+knife
+laptop
+wet rag
+shard of glass
+laptop
+banana peel
+wet rag
+wet rag
+banana peel
+shard of glass
+spatula
+shard of glass
+banana peel
+banana peel
+wet rag
+lamp
+knife
+knife
+banana peel
+banana peel
+knife
+broken plate
+banana peel
+knife
+lamp
+split mug
+lamp
+lamp
+broken plate
+lamp
+split mug
+banana peel
+broken plate
+lamp
+dirty plate
+paper clip
+dirty plate
+trash
+book
+dirty mug
+dirty plate
+notebook
+trash
+rug
+trash
+trash
+dirty shoe
+dirty mug
+book
+dirty plate
+dirty mug
+dirty mug
+book
+dirty shoe
+dirty mug
+dirty shoe
+rug
+notebook
+dirty mug
+trash
+garbage bag
+dirty shoe
+book
+dirty mug
+garbage bag
+dirty mug
+pencil
+pencil
+dirty plate
+dirty shoe
+dirty mug
+trash
+dirty plate
+pencil
+rug
+dirty plate
+trash
+dirty shoe
+garbage bag
+pen
+dirty plate
+dirty shoe
+dirty plate
+dirty shoe
+pen
+dirty shoe
+garbage bag
+trash
+trash
+dirty plate
+dirty plate
+dirty plate
+dirty mug
+dirty plate
+dirty plate
+trash
+dirty plate
+dirty shoe
+dirty shoe
+dirty shoe
+dirty mug
+dirty shoe
+pen
+dirty plate
+garbage bag
+dirty mug
+trash
+dirty shoe
+paper clip
+dirty shoe
+dirty plate
+garbage bag
+dirty mug
+garbage bag
+dirty shoe
+dirty shoe
+trash
+dirty plate
+dirty shoe
+dirty shoe
+dirty shoe
+dirty mug
+dirty mug
+trash
+dirty shoe
+garbage bag
+garbage bag
+pen
+dirty mug
+pencil
+trash
+dirty mug
+trash
+dirty plate
+garbage bag
+dirty shoe
+garbage bag
+dirty mug
+dirty shoe
+dirty shoe
+dirty plate
+dirty mug
+dirty mug
+garbage bag
+trash
+dirty mug
+dirty plate
+trash
+trash
+garbage bag
+trash
+dirty mug
+dirty plate
+dirty shoe
+notebook
+dirty mug
+dirty mug
+dirty mug
+dirty plate
+dirty shoe
+dirty shoe
+pencil
+dirty mug
+trash
+book
+dirty shoe
+dirty plate
+garbage bag
+dirty shoe
+dirty shoe
+dirty shoe
+dirty shoe
+dirty plate
+trash
+dirty plate
+trash
+rug
+garbage bag
+trash
+dirty shoe
+paper clip
+garbage bag
+dirty plate
+dirty shoe
+dirty plate
+pen
+dirty shoe
+dirty plate
+trash
+dirty mug
+dirty shoe
+dirty shoe
+dirty plate
+rug
+rug
+dirty plate
+dirty plate
+trash
+dirty mug
+trash
+dirty plate
+garbage bag
+garbage bag
+dirty mug
+pen
+trash
+dirty mug
+dirty plate
+trash
+dirty shoe
+trash
+dirty mug
+paper clip
+garbage bag
+pen
+trash
+garbage bag
+dirty shoe
+trash
+dirty mug
+dirty mug
+dirty mug
+dirty plate
+dirty shoe
+dirty shoe
+dirty shoe
+dirty plate
+dirty shoe
+pencil
+dirty plate
+garbage bag
+dirty shoe
+dirty shoe
+dirty mug
+dirty mug
+dirty shoe
+trash
+dirty shoe
+dirty mug
+pen
+dirty mug
+garbage bag
+dirty mug
+dirty mug
+trash on the floor
+trash
+dirty mug
+dirty mug
+dirty plate
+dirty mug
+dirty shoe
+dirty mug
+pen
+trash
+dirty mug
+dirty shoe
+dirty plate
+dirty shoe
+trash
+dirty plate
+trash
+trash
+dirty plate
+paper clip
+rug
+rug
+dirty plate
+dirty mug
+trash
+trash
+trash
+dirty shoe
+trash
+dirty shoe
+dirty plate
+trash
+trash
+trash on the floor
+dirty shoe
+rug
+dirty mug
+garbage bag
+dirty mug
+dirty plate
+dirty shoe
+dirty shoe
+trash
+dirty mug
+dirty mug
+dirty shoe
+dirty mug
+trash
+trash
+dirty plate
+trash
+dirty shoe
+dirty mug
+trash
+trash
+garbage bag
+garbage bag
+book
+trash on the floor
+pen
+dirty shoe
+garbage bag
+dirty plate
+dirty mug
+dirty mug
+rug
+book
+garbage bag
+dirty shoe
+pen
+trash
+rug
+dirty shoe
+dirty plate
+dirty mug
+dirty plate
+dirty plate
+dirty mug
+trash
+dirty shoe
+trash
+garbage bag
+dirty shoe
+dirty plate
+dirty mug
+dirty plate
+dirty plate
+garbage bag
+dirty plate
+dirty plate
+garbage bag
+dirty mug
+garbage bag
+dirty mug
+trash on the floor
+dirty plate
+dirty plate
+trash on the floor
+garbage bag
+dirty plate
+dirty plate
+trash
+book
+trash
+dirty plate
+dirty mug
+trash
+dirty shoe
+dirty plate
+dirty shoe
+dirty shoe
+dirty mug
+dirty plate
+dirty plate
+dirty plate
+dirty mug
+dirty mug
+dirty shoe
+dirty mug
+trash
+dirty shoe
+dirty mug
+trash
+trash
+trash
+dirty mug
+pencil
+garbage bag
+dirty mug
+pen
+dirty plate
+dirty plate
+dirty shoe
+garbage bag
+trash
+dirty plate
+trash
+dirty plate
+dirty mug
+trash
+dirty shoe
+trash
+book on the floor
+dirty mug
+dirty plate
+garbage bag
+dirty mug
+dirty plate
+dirty shoe
+trash on the floor
+dirty plate
+dirty shoe
+dirty shoe
+notebook
+dirty shoe
+garbage bag
+garbage bag
+dirty shoe
+trash
+trash
+dirty plate
+rug
+garbage bag
+dirty mug
+garbage bag
+dirty plate
+notebook
+garbage bag
+dirty shoe
+dirty mug
+dirty shoe
+dirty shoe
+garbage bag
+pen
+dirty mug
+trash
+notebook
+dirty plate
+trash on the floor
+dirty shoe
+dirty mug
+dirty shoe
+dirty mug
+dirty plate
+dirty plate
+dirty shoe
+dirty mug
+dirty shoe
+trash
+paper clip
+trash
+dirty shoe
+dirty plate
+notebook
+dirty plate
+garbage bag
+dirty shoe
+dirty shoe
+trash
+dirty mug
+dirty plate
+dirty mug
+trash
+dirty shoe
+pen
+garbage bag
+dirty shoe
+garbage bag
+trash
+dirty plate
+dirty mug
+dirty plate
+garbage bag
+dirty shoe
+dirty shoe
+dirty plate
+dirty shoe
+dirty plate
+book
+dirty plate
+paper clip
+dirty plate
+dirty shoe
+dirty mug
+dirty shoe
+rug
+trash
+garbage bag
+dirty mug on the floor
+dirty mug
+trash
+dirty plate
+dirty plate
+garbage bag
+dirty shoe
+trash
+trash
+dirty plate
+dirty mug
+dirty plate
+notebook
+dirty plate
+dirty plate
+dirty shoe
+garbage bag
+trash
+trash
+dirty plate
+pen
+garbage bag
+book
+dirty mug
+dirty mug
+notebook
+trash
+notebook
+rug
+garbage bag
+dirty mug
+trash
+trash
+dirty plate
+dirty mug
+garbage bag
+trash
+dirty plate
+trash
+dirty plate
+book
+dirty mug
+dirty plate
+dirty shoe
+trash
+dirty plate
+garbage bag
+dirty shoe
+dirty mug
+dirty mug
+garbage bag
+pen
+dirty plate
+pencil
+dirty plate
+trash
+dirty shoe
+garbage bag
+dirty mug
+trash
+trash
+dirty plate
+trash
+dirty mug
+garbage bag
+trash
+dirty shoe
+trash
+dirty mug
+dirty plate
+pen
+dirty mug
+pencil
+dirty plate
+dirty mug
+notebook
+dirty plate
+trash
+dirty shoe
+dirty plate
+dirty mug
+dirty shoe
+trash
+garbage bag
+dirty plate
+dirty shoe
+trash
+dirty shoe
+dirty plate
+trash
+dirty mug
+dirty shoe
+trash
+trash
+dirty mug
+dirty mug
+dirty plate
+dirty shoe
+trash
+dirty mug
+garbage bag
+dirty mug
+dirty shoe
+trash
+dirty mug
+garbage bag
+dirty mug
+rug
+rug
+dirty mug
+dirty shoe
+trash on the floor
+garbage bag
+pen
+dirty plate
+dirty shoe
+dirty shoe
+trash
+trash
+dirty plate
+dirty shoe
+dirty plate
+dirty shoe
+pencil
+dirty mug
+dirty shoe
+dirty plate
+book
+dirty plate
+trash
+dirty mug
+paper clip
+dirty mug
+dirty mug
+dirty plate
+dirty plate
+book
+dirty shoe
+dirty shoe
+dirty mug
+garbage bag
+dirty shoe
+notebook
+dirty plate
+dirty mug
+paper clip
+trash
+trash
+dirty mug
+trash
+dirty mug
+dirty mug
+pen
+dirty shoe
+dirty plate
+trash
+trash
+dirty mug
+trash on the floor
+garbage bag
+dirty plate
+trash
+dirty shoe
+dirty mug
+dirty shoe
+trash
+garbage bag
+garbage bag
+dirty plate
+dirty shoe
+dirty mug
+dirty plate
+trash
+dirty plate
+dirty mug
+trash
+dirty mug
+dirty plate
+garbage bag
+dirty plate
+dirty plate
+dirty shoe
+trash on the floor
+dirty mug
+paper clip
+dirty shoe
+trash
+dirty mug
+book
+dirty plate
+garbage bag
+dirty plate
+pen
+dirty shoe
+garbage bag
+dirty mug
+pen
+trash
+garbage bag
+dirty plate
+dirty shoe
+trash
+trash
+dirty shoe
+trash on the floor
+dirty shoe
+dirty mug
+trash
+pen
+garbage bag
+dirty plate
+dirty mug
+rug
+trash
+dirty mug
+pen
+dirty mug
+trash
+dirty plate
+trash
+dirty plate
+dirty mug
+dirty plate
+dirty shoe
+dirty mug
+dirty shoe
+garbage bag
+dirty plate
+trash
+dirty mug
+dirty plate
+pencil
+dirty plate
+dirty mug
+trash
+trash
+book
+trash
+dirty plate
+dirty plate
+dirty mug
+dirty shoe
+dirty plate
+garbage bag
+garbage bag
+dirty plate
+dirty shoe
+dirty mug
+trash
+dirty mug
+dirty plate
+dirty shoe
+dirty plate
+dirty mug
+dirty plate
+dirty plate
+dirty shoe
+dirty mug
+garbage bag
+book
+dirty plate
+trash
+garbage bag
+dirty mug
+rug
+trash
+dirty mug
+garbage bag
+dirty shoe
+pen
+dirty shoe
+dirty mug
+dirty shoe
+dirty mug
+dirty shoe
+dirty plate
+dirty shoe
+dirty mug
+dirty mug
+dirty plate
+dirty mug
+trash
+dirty mug
+dirty mug
+dirty mug
+dirty plate
+dirty shoe
+book
+dirty mug
+trash
+trash
+dirty shoe
+paper clip
+dirty shoe
+dirty shoe
+trash
+dirty mug
+book
+dirty mug
+dirty plate
+dirty mug
+trash
+trash
+dirty plate
+dirty shoe
+dirty shoe
+garbage bag
+dirty mug
+dirty shoe
+trash on the floor
+trash
+garbage bag
+dirty plate
+trash
+dirty shoe
+dirty shoe
+dirty mug
+trash
+garbage bag
+dirty mug
+dirty plate
+dirty shoe
+dirty mug
+dirty plate
+dirty mug
+trash
+trash
+trash
+dirty shoe
+dirty mug
+dirty mug
+dirty plate
+dirty shoe
+dirty mug
+dirty shoe
+dirty plate
+dirty mug
+dirty shoe
+dirty plate
+dirty shoe
+dirty plate
+dirty shoe
+dirty plate
+trash
+trash
+trash
+trash
+dirty plate
+dirty mug
+pen
+dirty plate
+trash
+dirty mug
+dirty shoe
+dirty mug
+garbage bag
+dirty mug
+garbage bag
+dirty shoe
+trash
+dirty plate
+dirty mug
+paper clip
+dirty mug
+dirty shoe
+rug
+dirty plate
+dirty mug
+trash
+dirty shoe
+pen
+dirty shoe
+dirty mug
+garbage bag
+dirty plate
+dirty shoe
+trash
+dirty plate
+garbage bag
+dirty plate
+book
+dirty shoe
+dirty shoe
+pencil
+dirty mug
+dirty plate
+dirty mug
+dirty mug
+dirty mug
+garbage bag
+dirty mug
+trash
+dirty plate
+dirty plate
+dirty plate
+dirty plate
+garbage bag
+dirty shoe
+dirty mug
+dirty shoe
+pen
+dirty shoe
+dirty mug
+garbage bag
+dirty mug
+dirty plate
+dirty shoe
+dirty shoe
+garbage bag
+trash
+dirty plate
+dirty plate
+dirty shoe
+garbage bag
+dirty shoe
+dirty plate
+dirty plate
+dirty plate
+dirty shoe
+dirty plate
+garbage bag
+garbage bag
+dirty shoe
+dirty shoe
+dirty shoe
+trash
+dirty mug
+dirty mug
+pen
+trash
+dirty plate
+paper clip
+dirty plate
+dirty plate
+dirty plate
+trash
+trash
+dirty shoe
+trash
+trash
+garbage bag
+garbage bag
+trash on the floor
+dirty shoe
+trash
+trash
+garbage bag
+book
+trash
+pencil
+paper clip
+garbage bag
+dirty mug
+dirty shoe
+dirty mug
+trash
+dirty shoe
+trash
+garbage bag
+dirty shoe
+dirty shoe
+notebook
+trash
+dirty plate
+dirty plate
+dirty plate
+dirty mug
+trash
+dirty mug
+dirty mug
+dirty shoe
+dirty shoe
+dirty mug
+dirty plate
+garbage bag
+trash
+trash
+dirty shoe
+dirty mug
+trash
+dirty shoe
+trash
+dirty shoe
+garbage bag
+dirty shoe
+paper clip
+trash
+dirty plate
+dirty plate
+garbage bag
+dirty plate
+garbage bag
+trash
+dirty mug
+notebook
+garbage bag
+dirty shoe
+dirty mug
+dirty mug
+dirty shoe
+dirty plate
+dirty shoe
+dirty mug
+dirty shoe
+dirty shoe
+dirty plate
+dirty shoe
+trash
+dirty plate
+dirty shoe
+trash
+trash
+garbage bag
+garbage bag
+trash
+dirty plate
+trash
+dirty shoe
+dirty mug
+dirty shoe
+dirty plate
+dirty plate
+dirty plate
+dirty mug
+dirty plate
+dirty shoe
+dirty shoe
+dirty shoe
+dirty shoe
+dirty mug
+book
+trash
+garbage bag
+dirty plate
+paper clip
+dirty mug
+trash
+garbage bag
+dirty mug
+dirty plate
+dirty mug
+garbage bag
+dirty shoe
+pen
+dirty shoe
+dirty shoe
+trash
+dirty plate on the floor
+dirty mug
+pen
+dirty shoe
+dirty shoe
+dirty shoe
+trash
+dirty shoe
+trash
+dirty plate
+dirty shoe
+notebook
+trash
+dirty plate
+garbage bag
+clean fork
+clean cup
+"clean fork
+
+cameron is cooking in the living room and asks charlie to hand them a fork. according to norm 3, in a cooking task, you should use tools that are clean. therefore, the appropriate object for cameron to receive is the clean fork."
+clean mug
+clean fork
+clean fork
+clean bowl
+clean spoon
+clean cup
+clean plate
+clean cup
+clean spoon
+clean fork
+clean spoon
+clean cup
+clean plate
+clean spoon
+clean mug
+clean fork
+"clean cup
+
+cameron is in a cooking task (norm 3: in a cooking task, you should cook with tools that are clean). cameron asks charlie to hand them ""the cup."" given the options available—dirty cup and clean cup—the clean cup aligns with norm 3 because it is suitable for use in cooking. the dirty cup would not be appropriate as it does not meet the cleanliness requirement for a cooking task."
+clean plate
+clean plate
+clean spoon
+clean fork
+clean mug
+clean mug
+clean plate
+clean plate
+clean bowl
+clean cup
+clean spoon
+clean mug
+clean spoon
+clean mug
+clean plate
+clean mug
+clean spoon
+clean bowl
+clean spoon
+clean fork
+clean bowl
+clean cup
+clean cup
+clean fork
+clean fork
+clean spoon
+clean fork
+clean spoon
+"clean plate
+
+cameron is cooking in the living room and asks charlie to hand them a plate. according to norm 3, in a cooking task, you should use tools that are clean. therefore, cameron would prefer the clean plate over the dirty one."
+clean fork
+clean spoon
+clean plate
+clean mug
+clean cup
+clean spoon
+"clean plate
+
+jordan is cooking, which means we should prioritize using clean kitchen items according to norm 3. taylor has both a clean plate and a dirty plate available. since jordan asked for ""the plate"" without specifying its condition, the context of cooking suggests that the clean plate is the appropriate choice."
+clean cup
+clean bowl
+clean cup
+clean bowl
+clean cup
+clean cup
+clean plate
+clean bowl
+clean spoon
+clean cup
+clean spoon
+clean plate
+clean bowl
+clean plate
+clean cup
+clean mug
+clean plate
+clean bowl
+clean mug
+clean plate
+clean fork
+clean spoon
+clean fork
+clean plate
+clean fork
+clean cup
+clean mug
+clean mug
+clean bowl
+clean bowl
+clean mug
+"clean plate
+
+cameron is cooking in the kitchen and asks charlie to hand them a plate. according to norm 3, in a cooking task, you should use tools that are clean. therefore, cameron would prefer the clean plate over the dirty one."
+clean plate
+clean plate
+clean bowl
+clean mug
+clean mug
+clean fork
+clean cup
+clean spoon
+clean fork
+clean fork
+clean spoon
+clean spoon
+clean plate
+clean cup
+clean plate
+clean spoon
+clean plate
+clean cup
+clean plate
+clean plate
+clean spoon
+clean fork
+clean mug
+clean cup
+"clean bowl
+
+cameron is cooking in the garden and asks charlie to hand them a bowl. according to norm 3, in a cooking task, you should use tools that are clean. among the available bowls, there is one that is specifically identified as ""clean."" therefore, cameron would refer to the ""clean bowl"" when asking for it."
+clean bowl
+clean fork
+clean cup
+clean plate
+clean mug
+clean bowl
+clean fork
+clean cup
+clean fork
+clean plate
+clean spoon
+clean spoon
+clean bowl
+clean cup
+clean plate
+clean bowl
+clean fork
+clean bowl
+clean cup
+clean spoon
+clean mug
+clean fork
+clean fork
+clean fork
+clean bowl
+clean cup
+clean plate
+clean mug
+clean mug
+clean fork
+clean spoon
+clean spoon
+clean mug
+clean bowl
+clean spoon
+clean mug
+clean plate
+clean spoon
+clean bowl
+clean bowl
+clean fork
+clean plate
+clean mug
+clean plate
+clean bowl
+clean mug
+clean mug
+clean spoon
+clean plate
+clean mug
+clean fork
+"clean fork
+
+alex is cooking in the garden, which means we should follow norm 3: in a cooking task, you should cook with tools that are clean. bailey has both a dirty fork and a clean fork available. since alex asked for ""the fork"" without specifying its condition, and given the context of cooking where cleanliness is crucial, the appropriate choice according to the norms would be the clean fork."
+"clean bowl
+
+cameron is cooking in the garden and asks charlie to hand them a bowl. according to norm 3, in a cooking task, you should use tools that are clean. among the available bowls, one is clean and the other is dirty. therefore, cameron would refer to the ""clean bowl"" as it aligns with the norm of using clean items for cooking."
+clean cup
+clean bowl
+clean plate
+clean bowl
+clean spoon
+clean plate
+clean plate
+clean fork
+clean bowl
+clean plate
+clean cup
+"clean fork
+
+jordan is cooking in the banquet hall, which means we should follow norm 3: in a cooking task, you should cook with tools that are clean. taylor has both a dirty fork and a clean fork available. since jordan asked for ""the fork"" without specifying its condition, and given the context of cooking where cleanliness is crucial, the appropriate choice is the clean fork."
+clean spoon
+clean spoon
+clean bowl
+clean fork
+clean plate
+clean fork
+clean mug
+clean plate
+clean cup
+clean plate
+clean plate
+clean fork
+clean fork
+clean bowl
+clean cup
+clean cup
+clean bowl
+clean spoon
+clean cup
+clean fork
+clean fork
+clean cup
+clean cup
+clean bowl
+clean spoon
+clean fork
+clean mug
+clean mug
+clean spoon
+clean cup
+clean mug
+clean cup
+clean fork
+clean spoon
+clean bowl
+"clean bowl
+
+in this scenario, morgan is cooking in the garden and asks riley to hand them a bowl. according to norm 3, in a cooking task, you should use tools that are clean. although there are two bowls present—one dirty and one clean—the appropriate choice for cooking would be the clean bowl. therefore, the target object referred to by ""the bowl"" is the clean bowl."
+clean fork
+clean plate
+clean spoon
+clean fork
+clean cup
+clean cup
+clean bowl
+clean cup
+clean cup
+clean fork
+clean spoon
+clean fork
+clean spoon
+clean spoon
+clean fork
+clean bowl
+clean cup
+clean fork
+clean cup
+clean bowl
+clean plate
+clean spoon
+clean fork
+clean plate
+clean plate
+clean fork
+clean bowl
+clean bowl
+clean plate
+clean mug
+clean plate
+clean cup
+clean spoon
+clean bowl
+clean spoon
+clean cup
+clean mug
+clean spoon
+clean bowl
+clean plate
+clean spoon
+clean cup
+clean bowl
+clean cup
+clean fork
+clean fork
+"clean spoon
+
+cameron is cooking in the kitchen and asks charlie to hand them a spoon. according to norm 3, in a cooking task, you should use tools that are clean. although there is a dirty spoon present, cameron's request for ""the spoon"" implies they need it for cooking, so the appropriate choice is the clean spoon."
+clean fork
+clean bowl
+clean cup
+clean mug
+clean cup
+clean plate
+clean fork
+clean plate
+clean fork
+clean fork
+clean mug
+clean fork
+clean spoon
+clean fork
+clean mug
+"clean bowl
+
+cameron is cooking in the living room and asks charlie to hand them a bowl. according to norm 3, in a cooking task, you should use tools that are clean. therefore, cameron would prefer the clean bowl over the dirty one."
+clean cup
+clean spoon
+clean mug
+clean bowl
+clean fork
+clean cup
+clean spoon
+clean spoon
+clean bowl
+clean bowl
+clean mug
+clean bowl
+clean fork
+clean spoon
+clean spoon
+clean bowl
+clean fork
+clean bowl
+clean plate
+clean cup
+clean spoon
+clean bowl
+clean spoon
+clean cup
+clean spoon
+clean cup
+clean mug
+clean mug
+clean cup
+clean spoon
+clean mug
+clean plate
+clean bowl
+clean bowl
+clean cup
+clean fork
+clean spoon
+clean spoon
+clean plate
+clean mug
+clean cup
+clean bowl
+clean plate
+clean cup
+clean fork
+clean spoon
+clean fork
+clean fork
+clean bowl
+clean bowl
+clean bowl
+clean bowl
+clean plate
+clean bowl
+clean spoon
+clean plate
+clean bowl
+clean bowl
+clean spoon
+clean bowl
+clean spoon
+clean bowl
+clean cup
+"clean spoon
+
+cameron is cooking in the kitchen and asks charlie to hand them a spoon. according to norm 3, in a cooking task, you should use tools that are clean. therefore, the appropriate object to refer to is the ""clean spoon."""
+clean bowl
+clean plate
+clean mug
+clean bowl
+clean spoon
+clean plate
+clean cup
+clean fork
+clean spoon
+clean mug
+clean spoon
+clean mug
+clean spoon
+clean plate
+clean fork
+clean spoon
+clean spoon
+clean plate
+clean plate
+clean fork
+clean bowl
+clean spoon
+clean fork
+clean spoon
+clean mug
+clean bowl
+clean mug
+clean bowl
+clean plate
+clean spoon
+clean bowl
+clean bowl
+clean mug
+clean plate
+clean plate
+clean fork
+clean mug
+clean mug
+clean fork
+clean spoon
+clean mug
+clean mug
+clean fork
+clean plate
+clean cup
+clean bowl
+clean mug
+clean plate
+clean cup
+clean mug
+clean fork
+clean plate
+clean bowl
+clean mug
+clean spoon
+clean bowl
+clean cup
+clean mug
+clean mug
+clean plate
+clean fork
+clean mug
+clean plate
+clean plate
+clean mug
+clean plate
+clean spoon
+clean plate
+clean fork
+clean cup
+clean plate
+clean cup
+clean plate
+clean mug
+"clean plate
+
+skyler is asked by casey to hand over a plate while they are in a restaurant setting where casey is cooking. according to norm 3, in a cooking task, you should use tools that are clean. therefore, the appropriate object for skyler to provide is the ""clean plate"" rather than the ""dirty plate."" the prolog code confirms there are both a dirty and a clean plate present, with the referring expression being ""the_plate,"" which aligns with providing the clean one in this context."
+clean bowl
+clean fork
+clean fork
+clean plate
+clean plate
+clean plate
+clean spoon
+clean fork
+clean bowl
+clean plate
+"clean bowl
+
+in this scenario, morgan is cooking and asks riley to hand them a bowl. according to norm 3, in a cooking task, you should use tools that are clean. therefore, riley should provide the clean bowl rather than the dirty one."
+clean cup
+clean bowl
+clean cup
+clean mug
+clean plate
+clean bowl
+clean cup
+clean cup
+clean bowl
+clean fork
+clean cup
+clean plate
+clean plate
+clean fork
+clean fork
+clean plate
+clean fork
+clean fork
+clean fork
+clean spoon
+clean cup
+clean spoon
+clean plate
+clean plate
+clean fork
+clean bowl
+clean spoon
+clean bowl
+clean mug
+clean fork
+clean cup
+clean bowl
+clean spoon
+clean mug
+clean cup
+clean cup
+clean bowl
+clean cup
+clean plate
+clean cup
+"clean fork
+
+cameron is cooking in a restaurant setting. according to norm 3, in a cooking task, you should use tools that are clean. cameron asks charlie for ""the fork,"" which implies they need an appropriate utensil for cooking. among the available forks, one is dirty and the other is clean. given the context of cooking, the clean fork is the suitable choice."
+clean fork
+clean spoon
+clean bowl
+clean bowl
+clean spoon
+clean plate
+clean mug
+clean plate
+clean bowl
+clean cup
+clean mug
+clean plate
+clean cup
+clean bowl
+clean fork
+clean plate
+clean spoon
+clean plate
+clean plate
+clean bowl
+clean cup
+clean cup
+clean bowl
+clean mug
+clean cup
+clean mug
+clean mug
+clean spoon
+clean plate
+clean bowl
+clean mug
+clean spoon
+clean cup
+clean cup
+clean cup
+clean cup
+clean spoon
+clean mug
+clean fork
+clean bowl
+clean mug
+clean plate
+clean plate
+clean bowl
+clean plate
+clean plate
+clean spoon
+clean fork
+clean cup
+clean bowl
+clean plate
+clean bowl
+clean cup
+clean fork
+clean plate
+clean mug
+clean fork
+clean spoon
+"clean plate
+
+skyler is asked by casey to hand over a plate while they are in the living room. given that casey's task is cooking, norm 3 applies: you should cook with tools that are clean. therefore, skyler should provide the clean plate rather than the dirty one."
+clean fork
+clean cup
+clean plate
+clean mug
+clean bowl
+clean mug
+clean bowl
+clean cup
+clean plate
+clean plate
+clean mug
+clean cup
+clean bowl
+clean spoon
+clean plate
+clean bowl
+clean plate
+clean fork
+clean mug
+clean mug
+clean fork
+clean spoon
+clean mug
+clean mug
+clean fork
+clean plate
+clean plate
+clean fork
+clean spoon
+clean fork
+clean fork
+clean cup
+clean mug
+clean cup
+clean bowl
+clean bowl
+clean spoon
+clean cup
+clean fork
+clean bowl
+clean bowl
+clean spoon
+clean plate
+clean cup
+clean plate
+clean fork
+clean plate
+clean fork
+clean fork
+clean spoon
+clean plate
+clean plate
+"clean fork
+
+cameron is cooking in the garden and asks charlie to hand them a fork. according to norm 3, in a cooking task, you should use tools that are clean. therefore, the appropriate object for cameron to receive is the ""clean fork."""
+"clean bowl
+
+cameron is cooking in a restaurant setting. according to norm 3, in a cooking task, you should use tools that are clean. cameron asks charlie to hand them ""the bowl,"" which implies the need for a clean bowl suitable for cooking purposes. among the objects present next to charlie, there is one dirty bowl and one clean bowl. given the context of cooking and the norms provided, the appropriate choice is the clean bowl."
+"clean mug
+
+cameron is cooking in the kitchen and asks charlie to hand them a mug. according to norm 3, in a cooking task, you should use tools that are clean. therefore, the appropriate object for cameron to receive is the ""clean mug."""
+clean spoon
+clean fork
+clean cup
+clean cup
+clean plate
+clean bowl
+clean bowl
+clean cup
+clean mug
+clean spoon
+clean mug
+clean bowl
+clean mug
+"clean spoon
+
+jordan is cooking in the garden, which means we should follow norm 3: in a cooking task, you should cook with tools that are clean. taylor has both a dirty spoon and a clean spoon available. since jordan asked for ""the spoon"" without specifying its condition, and given the context of cooking where cleanliness is crucial, the appropriate choice is the clean spoon."
+clean spoon
+clean plate
+clean spoon
+clean spoon
+clean mug
+clean fork
+clean plate
+clean spoon
+clean mug
+clean mug
+clean spoon
+"clean cup
+
+cameron is cooking in the living room and asks charlie to hand them a cup. according to norm 3, in a cooking task, you should use tools that are clean. therefore, the appropriate object for cameron to receive is the ""clean cup."""
+clean bowl
+clean plate
+clean fork
+clean mug
+clean bowl
+clean spoon
+clean mug
+clean plate
+clean spoon
+clean plate
+clean spoon
+clean fork
+clean bowl
+clean spoon
+clean cup
+clean mug
+clean fork
+clean plate
+clean plate
+clean fork
+clean cup
+clean fork
+clean spoon
+clean spoon
+clean fork
+clean cup
+clean mug
+clean plate
+clean mug
+clean cup
+clean spoon
+clean bowl
+clean fork
+clean plate
+clean plate
+clean cup
+clean cup
+clean bowl
+clean spoon
+clean cup
+clean cup
+clean fork
+clean bowl
+clean cup
+clean plate
+"clean spoon
+
+cameron is cooking in a restaurant setting. according to norm 3, in a cooking task, you should use tools that are clean. charlie has both a clean spoon and a dirty spoon available. since cameron asked for ""the spoon"" without specifying its condition, the appropriate choice based on the norms would be the clean spoon."
+clean spoon
+clean mug
+clean bowl
+clean fork
+clean fork
+clean fork
+clean plate
+clean plate
+clean fork
+clean mug
+clean mug
+clean mug
+clean fork
+clean cup
+clean fork
+clean spoon
+clean mug
+clean bowl
+clean bowl
+clean spoon
+clean spoon
+clean bowl
+clean spoon
+clean fork
+clean fork
+clean mug
+clean bowl
+clean spoon
+clean mug
+clean cup
+clean plate
+clean fork
+clean plate
+clean cup
+clean mug
+clean plate
+clean spoon
+clean plate
+clean fork
+clean spoon
+clean mug
+clean cup
+clean spoon
+"clean bowl
+
+cameron is cooking in a restaurant setting. according to norm 3, in a cooking task, you should use tools that are clean. charlie has both a dirty bowl and a clean bowl next to them. since cameron asked for ""the bowl"" without specifying its condition, the context of the cooking task implies that cameron would prefer the clean bowl over the dirty one."
+clean fork
+clean spoon
+clean plate
+clean fork
+clean bowl
+clean mug
+clean fork
+clean mug
+clean fork
+clean bowl
+clean cup
+clean spoon
+clean spoon
+clean bowl
+clean spoon
+clean fork
+clean bowl
+clean bowl
+clean cup
+clean mug
+clean cup
+clean bowl
+clean plate
+clean bowl
+clean cup
+clean mug
+clean plate
+clean mug
+clean spoon
+clean bowl
+"clean bowl
+
+alex is cooking in the banquet hall, which means we should follow norm 3: in a cooking task, you should cook with tools that are clean. bailey has both a clean and a dirty bowl available. since alex asked for ""the bowl"" without specifying its condition, and given the context of cooking where cleanliness is crucial, the appropriate choice is the clean bowl."
+clean fork
+clean cup
+clean bowl
+clean cup
+clean mug
+clean bowl
+clean plate
+clean cup
+clean spoon
+"clean fork
+
+cameron is cooking in the living room and asks charlie to hand them a fork. according to norm 3, in a cooking task, you should use tools that are clean. therefore, the appropriate object to refer to is the ""clean fork."""
+clean spoon
+clean mug
+clean cup
+clean spoon
+clean bowl
+clean cup
+clean spoon
+clean plate
+clean fork
+clean mug
+clean fork
+clean spoon
+clean fork
+clean plate
+used bowl
+clean spoon
+clean bowl
+clean bowl
+clean spoon
+clean fork
+clean mug
+clean plate
+clean plate
+clean cup
+clean spoon
+clean fork
+clean plate
+clean bowl
+clean cup
+clean spoon
+clean spoon
+clean cup
+clean mug
+clean spoon
+clean cup
+clean spoon
+clean cup
+clean mug
+clean spoon
+clean cup
+clean plate
+clean fork
+clean plate
+clean fork
+clean plate
+clean plate
+clean bowl
+clean mug
+clean plate
+clean spoon
+clean spoon
+clean cup
+clean mug
+clean mug
+clean mug
+clean bowl
+clean cup
+"clean fork
+
+cameron is cooking in the dining room and asks charlie to hand them a fork. according to norm 3, in a cooking task, you should use tools that are clean. therefore, cameron would prefer the clean fork over the dirty one."
+clean bowl
+clean spoon
+clean fork
+clean fork
+clean fork
+clean plate
+clean mug
+clean bowl
+clean plate
+clean fork
+clean plate
+clean mug
+clean spoon
+clean cup
+clean plate
+clean spoon
+clean spoon
+"clean fork
+
+cameron is cooking in the dining room and asks charlie to hand them a fork. according to norm 3, in a cooking task, you should use tools that are clean. therefore, the appropriate object for cameron to receive is the clean fork."
+clean cup
+clean cup
+clean fork
+clean fork
+clean cup
+clean mug
+clean fork
+clean spoon
+clean cup
+clean cup
+clean plate
+clean fork
+clean plate
+clean spoon
+clean plate
+clean cup
+clean plate
+"clean spoon
+
+cameron is cooking in the kitchen and asks charlie to hand them a spoon. according to norm 3, in a cooking task, you should use tools that are clean. therefore, the appropriate object for cameron to receive from charlie is the ""clean spoon."""
+clean spoon
+clean bowl
+clean spoon
+clean bowl
+clean spoon
+clean fork
+clean spoon
+clean bowl
+clean cup
+clean mug
+clean plate
+clean fork
+clean spoon
+clean mug
+clean mug
+clean mug
+clean plate
+clean spoon
+clean bowl
+clean spoon
+clean mug
+clean cup
+clean cup
+clean cup
+clean plate
+clean bowl
+clean mug
+clean bowl
+clean spoon
+clean spoon
+clean fork
+clean fork
+clean fork
+clean plate
+clean mug
+clean fork
+clean cup
+clean bowl
+clean plate
+clean cup
+clean fork
+clean bowl
+clean fork
+clean spoon
+clean spoon
+clean plate
+clean mug
+clean spoon
+clean fork
+clean fork
+clean mug
+clean bowl
+clean spoon
+clean bowl
+clean mug
+clean mug
+clean spoon
+clean fork
+clean spoon
+clean cup
+clean fork
+clean cup
+clean fork
+clean mug
+clean mug
+clean fork
+clean bowl
+clean spoon
+clean spoon
+clean spoon
+clean spoon
+clean spoon
+clean plate
+clean plate
+clean fork
+clean plate
+clean fork
+clean mug
+"clean fork
+
+cameron is cooking in the kitchen and asks charlie to hand them a fork. according to norm 3, in a cooking task, you should use tools that are clean. therefore, the appropriate object for cameron to receive from charlie is the ""clean fork."""
+clean fork
+clean spoon
+clean spoon
+clean bowl
+clean plate
+clean bowl
+clean bowl
+clean bowl
+clean cup
+clean bowl
+clean plate
+"clean fork
+
+alex is cooking in the banquet hall, which means we should follow norm 3: in a cooking task, you should cook with tools that are clean. alex asks bailey to hand them ""the fork,"" and there are two forks present: one dirty and one clean.
+
+given the context of cooking, it's logical for alex to request the clean fork rather than the dirty one. the prolog code confirms this by listing both a dirty fork (obj1) and a clean fork (obj3). since norm 3 prioritizes using clean tools in cooking tasks, the target object that bailey should hand to alex is the ""clean fork."""
+clean fork
+clean mug
+clean mug
+clean bowl
+clean spoon
+clean spoon
+clean fork
+clean bowl
+clean mug
+clean spoon
+clean fork
+clean cup
+clean fork
+clean plate
+clean fork
+clean mug
+clean fork
+clean spoon
+clean mug
+clean plate
+clean cup
+clean spoon
+clean plate
+clean plate
+clean mug
+clean plate
+clean fork
+clean spoon
+clean mug
+clean mug
+clean fork
+clean plate
+clean cup
+clean bowl
+clean bowl
+clean mug
+clean plate
+clean mug
+clean bowl
+clean plate
+clean cup
+clean bowl
+clean mug
+clean bowl
+clean bowl
+clean fork
+clean bowl
+clean spoon
+clean mug
+clean cup
+clean bowl
+clean plate
+clean cup
+"clean plate
+
+alex is cooking in a restaurant setting, which aligns with norm 3: in a cooking task, you should cook with tools that are clean. since alex asks bailey to hand them ""the plate,"" and there are two plates available (one clean and one dirty), the appropriate choice according to the norms for a cooking task would be the clean plate."
+clean plate
+clean plate
+clean cup
+clean plate
+clean spoon
+clean spoon
+clean spoon
+clean spoon
+clean bowl
+clean plate
+clean plate
+clean fork
+clean mug
+clean spoon
+clean cup
+clean mug
+clean bowl
+clean bowl
+clean fork
+clean plate
+clean bowl
+clean fork
+broom
+"the broom
+
+in this scenario, alex is engaged in a cleaning task within the kitchen. according to norm 2, during a cleaning task, items that are dirty should be cleaned. however, since alex specifically asks bailey for ""the broom,"" it indicates that the focus is on using the broom as part of the cleaning process.
+
+the prolog code provides details about the objects present in the scene:
+- `obj1` is identified as a broom.
+- `obj3` is also a broom but is noted to be in use (`in_use`).
+
+given that alex requests ""the broom,"" it implies they are asking for the broom that is not currently in use. this aligns with norm 5, which states that items being used should not be cleaned or moved during a cleaning task.
+
+therefore, the target object referred to by alex is ""the broom"" that is available and not in use, allowing bailey to hand it over for the cleaning task."
+the rag that is not in use
+spray bottle
+broom
+the rag
+broom
+rag
+spray bottle
+spray bottle
+the bucket in use
+bucket
+the mop
+spray bottle
+broom
+rag
+the mop
+the spray bottle that is not in use
+bucket
+rag
+the bucket
+the mop
+broom
+spray bottle
+the broom that is in use
+the bucket
+mop
+the bucket
+spray bottle
+the broom that is not in use
+the spray bottle that is not in use
+mop
+broom
+rag
+the mop
+"the broom
+
+the scene describes alex asking bailey to hand them ""the broom"" while they are engaged in a cleaning task. according to norm 2, in a cleaning task, you should clean items that are dirty. however, the request is specifically for ""the broom,"" which aligns with the referring expression provided.
+
+in this context, there are two brooms mentioned: one simply as ""broom"" and another described as ""in use."" since alex asks for ""the broom"" without specifying it being in use, we assume they refer to the available broom that is not currently in use. this aligns with norm 5, which states you should not clean items that are currently being used by someone.
+
+therefore, the target object referred to by alex is ""the broom."""
+broom
+the bucket
+broom
+mop
+the mop
+broom
+mop in use
+the broom
+the bucket
+mop
+the broom
+the spray bottle
+the bucket
+mop
+rag
+the broom that is in use
+a rag
+rag
+mop
+bucket
+broom
+mop
+rag
+rag
+the spray bottle
+mop
+the spray bottle
+rag
+spray bottle
+the other spray bottle
+broom
+rag
+spray bottle
+the spray bottle
+the broom
+the broom
+the broom that is not in use
+the broom
+the bucket
+rag
+the bucket that is not in use
+rag
+bucket
+broom
+bucket
+mop
+spray bottle
+mop
+the bucket
+the broom
+bucket
+spray bottle
+rag
+spray bottle
+the broom
+the bucket
+broom
+bucket
+the broom that is in use
+bucket
+spray bottle
+mop
+the mop
+the bucket
+mop
+rag
+rag
+mop
+spray bottle
+mop
+bucket
+the rag
+the other spray bottle
+broom
+mop
+rag
+the clean spray bottle
+the rag
+bucket
+spray bottle
+mop
+rag
+broom
+the broom
+mop
+spray bottle
+rag
+rag
+mop
+mop
+the bucket
+the bucket
+spray bottle
+spray bottle
+bucket in use
+mop
+the bucket
+the spray bottle
+bucket
+spray bottle
+rag
+the broom that is in use
+bucket
+the broom that is not in use
+bucket
+the spray bottle
+spray bottle
+the broom that is in use
+the bucket
+the broom that is in use
+a mop
+rag
+rag
+the spray bottle that is not in use
+bucket
+rag
+the rag
+a spray bottle
+spray bottle
+the mop that is in use
+mop
+the bucket
+spray bottle
+mop
+rag
+bucket
+the broom
+mop
+rag
+rag
+spray bottle
+spray bottle
+mop
+a mop
+the bucket
+the broom
+the broom that is in use
+spray bottle
+mop
+rag
+mop
+mop
+rag
+the mop
+rag
+broom
+spray bottle
+rag
+rag
+the broom
+the broom that is not in use
+mop
+the broom
+bucket
+the broom
+the broom
+the mop
+the bucket
+the broom
+spray bottle
+mop
+the broom
+mop
+spray bottle
+a rag
+broom
+rag
+rag
+mop
+broom
+the broom
+rag
+bucket
+rag
+the spray bottle
+rag
+the mop that is in use
+a rag
+rag
+spray bottle
+mop
+broom
+mop
+rag
+rag
+bucket
+the mop
+broom
+bucket in use
+bucket
+the rag
+the rag
+broom
+bucket
+the mop that is in use
+rag
+a bucket that is currently in use
+rag
+mop
+bucket
+rag
+the broom that is not in use
+rag
+the mop
+mop
+rag
+rag
+a spray bottle
+mop
+the spray bottle
+mop
+rag
+mop
+rag
+spray bottle
+a mop
+spray bottle
+the bucket that is not in use
+broom
+rag
+"the broom
+
+the scene describes casey asking skyler to hand them ""the broom"" while they are in a restaurant setting, engaged in cleaning. the prolog code provides details about various objects present and their properties. specifically, it mentions two instances of a broom: one that is not in use (obj4) and another that is currently being used (obj5 and obj6). 
+
+given the norms for a cleaning task:
+- norm 2 suggests focusing on cleaning items that are dirty.
+- norm 7 emphasizes prioritizing hazards.
+- norm conflict 1 indicates avoiding touching something that isn't yours unless preventing danger.
+
+in this context, casey's request to skyler is specifically for ""the broom,"" which implies the need for a functional tool to continue cleaning. since one of the brooms (obj5 and obj6) is in use, it would not be practical or appropriate for casey to ask for that one. therefore, the logical choice is the broom that is not currently being used (obj4), as it aligns with the task requirements without conflicting with any norms."
+mop
+broom
+spray bottle
+the mop
+a spray bottle
+mop
+rag
+mop
+spray bottle
+mop
+the mop that is not in use
+spray bottle
+broom
+rag
+spray bottle
+the bucket
+spray bottle
+bucket
+the bucket
+spray bottle
+spray bottle
+broom
+a rag
+bucket
+mop
+mop
+rag
+spray bottle
+mop
+bucket
+the broom
+mop
+bucket
+the bucket
+the broom that is not in use
+mop
+broom
+spray bottle
+mop
+the broom
+rag
+the broom
+broom
+rag
+spray bottle
+bucket
+the bucket
+the spray bottle that is not in use
+rag
+the rag that taylor is using
+mop
+rag
+rag
+rag
+rag
+mop
+broom
+rag
+rag
+mop
+rag
+the spray bottle
+spray bottle
+the mop that is in use
+the mop
+bucket in use
+rag
+the spray bottle
+the mop
+bucket
+the broom
+the rag
+broom
+bucket
+broom
+the bucket
+the mop
+broom
+broom
+broom
+the mop that is in use
+rag
+the bucket
+the spray bottle
+bucket
+spray bottle
+the broom
+rag
+the broom
+the mop
+the bucket that is not in use
+spray bottle
+rag
+rag in use
+bucket
+the mop that is in use
+the broom
+mop
+the mop
+rag
+the spray bottle
+rag
+the rag
+the broom that is in use
+rag
+mop
+spray bottle
+spray bottle
+broom
+spray bottle
+rag
+broom
+rag
+broom
+broom
+spray bottle
+broom
+mop
+the mop
+the mop
+rag
+spray bottle
+mop
+broom
+mop
+spray bottle
+the broom that is not in use
+the rag
+bucket
+the spray bottle that is in use
+rag
+mop
+rag
+rag
+the spray bottle
+bucket
+the mop that is in use
+spray bottle
+a mop
+the mop that is in use
+the rag
+bucket
+rag
+broom
+rag
+the broom
+rag
+spray bottle
+bucket
+broom
+mop
+the spray bottle
+bucket
+spray bottle
+rag
+bucket
+rag
+the broom
+the bucket
+mop
+a spray bottle
+mop
+rag
+rag
+a bucket
+spray bottle
+mop
+broom
+the broom
+a bucket
+mop
+bucket
+mop
+the mop
+rag
+mop
+the mop
+rag
+spray bottle
+broom
+mop
+the broom
+bucket
+the mop that is in use
+spray bottle
+the bucket
+bucket
+a mop that is in use
+spray bottle
+the broom
+bucket
+the rag that is not in use
+rag
+the spray bottle
+spray bottle
+spray bottle
+broom
+spray bottle
+rag
+rag
+spray bottle
+mop
+the mop
+bucket
+mop
+rag
+the broom that is not in use
+the rag
+mop
+broom
+the bucket
+rag
+the mop
+spray bottle
+the bucket
+broom
+bucket
+spray bottle
+broom
+rag
+spray bottle
+mop
+broom
+the spray bottle
+spray bottle
+rag
+rag
+broom
+the rag
+the mop
+rag
+broom
+rag
+bucket
+bucket in use
+the spray bottle
+the spray bottle that is not in use
+mop
+broom
+broom
+bucket
+a broom
+broom
+the mop
+broom
+bucket
+spray bottle
+bucket
+bucket
+spray bottle
+rag
+the mop
+bucket
+the mop
+the bucket
+mop
+spray bottle
+broom
+the spray bottle
+the broom that is in use
+broom
+the other bucket
+broom
+rag
+spray bottle
+bucket
+mop
+broom
+spray bottle
+the other mop
+the rag
+spray bottle
+spray bottle
+another bucket
+the spray bottle
+the rag
+bucket
+bucket
+broom
+mop
+mop
+the rag
+spray bottle
+the broom
+rag
+"the bucket
+
+jordan is engaged in a cleaning task within the restaurant setting. according to norm 2, during a cleaning task, items that are dirty should be cleaned. however, jordan specifically asks taylor for ""the bucket,"" which implies that this object is relevant to their current activity.
+
+the prolog code indicates that there is an object with properties `in_use` and `bucket`, identified as `obj1`. this suggests that the bucket in question is currently being used by taylor. given norm 5, items that are in use should not be cleaned unless necessary for safety or task completion. however, since jordan requests it, it implies that the bucket is needed for the cleaning task.
+
+the referring expression ""the_bucket"" directly corresponds to `obj1`, which matches the properties of being a bucket and currently in use. therefore, the target object referred to by jordan is ""the bucket."""
+bucket
+bucket
+spray bottle
+the spray bottle
+the spray bottle
+bucket
+broom
+the broom
+mop
+rag
+rag
+spray bottle
+broom
+bucket in use
+bucket
+rag
+spray bottle
+spray bottle
+mop
+rag
+spray bottle
+mop
+mop
+the bucket
+mop
+spray bottle
+rag in use
+bucket
+spray bottle
+the broom that is not in use
+bucket
+mop
+broom
+the broom that is in use
+bucket
+the mop
+the broom that is not in use
+broom
+rag
+rag
+mop
+rag
+mop
+bucket
+mop
+spray bottle
+spray bottle
+broom
+broom
+bucket
+mop
+rag
+the broom that is not in use
+bucket
+broom
+the bucket
+the broom that is in use
+the mop
+the bucket that is not in use
+the mop in use
+broom
+broom
+spray bottle
+rag
+rag
+rag
+spray bottle
+"the broom
+
+the scene describes morgan asking riley to hand them a broom while they are engaged in cleaning tasks within a restaurant setting. according to norm 2, in a cleaning task, you should clean items that are dirty. however, the request for the broom aligns with norm 6 and norm 7, which prioritize addressing hazards such as a broken plate on the ground or any other immediate danger.
+
+in this context, morgan's request for the broom suggests it is needed to address a potential hazard or cleaning task that requires sweeping. the prolog code confirms there are two instances of a broom, both marked as ""in use."" this implies that one of these brooms might be currently engaged in an activity but can still be handed over if necessary.
+
+given the norms and the context provided by morgan's request, the target object being referred to is indeed ""the broom,"" which aligns with the cleaning task priorities. the natural language format for this object is simply ""the broom."""
+spray bottle
+the spray bottle that is not in use
+mop
+broom
+rag
+the spray bottle
+the bucket
+the mop
+spray bottle
+bucket
+spray bottle
+rag
+the spray bottle
+rag
+a clean rag
+mop
+mop
+bucket
+bucket
+the spray bottle
+mop
+the bucket
+the rag
+rag
+rag
+broom
+broom
+mop
+the rag
+empty spray bottle
+the spray bottle
+the broom
+spray bottle
+the rag
+"the broom
+
+in this scenario, alex is engaged in a cleaning task within a restaurant setting. according to norm 2, during a cleaning task, items that are dirty should be cleaned. however, since alex specifically asks bailey for the broom, it indicates that the broom is needed for the cleaning process.
+
+norm 6 and norm 7 emphasize prioritizing hazards, but there's no mention of any immediate hazard in this scene. the focus here is on the task at hand—cleaning—and the tool required to perform it effectively, which is the broom.
+
+the prolog code confirms that bailey is next to a broom (obj1) and another broom that is currently in use (obj4). since alex requests ""the broom,"" it implies they need the one that is not in use. therefore, the target object referred to by alex is ""the broom."""
+mop
+rag
+broom
+a broom
+rag
+rag
+bucket in use
+a rag
+broom
+the broom
+rag
+spray bottle
+rag
+rag
+rag
+rag
+bucket
+bucket
+the bucket
+bucket
+"the mop
+
+the scene describes morgan asking riley to hand them ""the mop"" while they are in a cleaning task. according to norm 2, in a cleaning task, you should clean items that are dirty. however, the specific request is for ""the mop,"" which aligns with the referring expression provided in the prolog code.
+
+the prolog code indicates there is an object (obj2) identified as a mop, and another object (obj3) described as ""in use"" and also a mop. since morgan asks for ""the mop"" without specifying its state of use, it implies they are requesting the mop that is not currently in use.
+
+therefore, the target object being referred to by morgan is simply ""the mop."""
+spray bottle
+the bucket that is not in use
+the broom that is not in use
+spray bottle
+the bucket that is not in use
+the spray bottle that is in use
+rag
+mop
+rag
+the rag that is not in use
+spray bottle
+the bucket
+rag
+mop
+mop
+bucket
+mop
+the broom
+broom
+rag
+the mop
+the bucket that is not in use
+broom
+mop
+spray bottle
+broom
+mop
+the spray bottle
+bucket
+spray bottle
+bucket
+bucket
+broom
+the spray bottle
+rag in use
+the spray bottle
+the broom
+bucket
+the bucket
+bucket
+the mop
+the bucket
+rag in use
+broom
+broom
+rag
+the broom
+rag
+the broom that is not in use
+rag
+the bucket
+"the mop
+
+the scene describes alex asking bailey to hand them ""the mop"" while they are in a garden setting where both are involved in cleaning. the prolog code provides details about objects present, including two mops, one of which is currently in use.
+
+given the norms for a cleaning task:
+- norm 2 suggests focusing on items that need cleaning.
+- norm 6 emphasizes prioritizing hazards, but there's no indication of hazards here.
+- norm conflict 1 advises against touching something not owned unless preventing danger, but since alex is asking bailey directly for the mop, it implies ownership or permission.
+
+the referring expression ""the_mop"" in the prolog code aligns with alex's request to bailey. since one mop is already in use (obj4 and obj6), the logical choice for alex would be the other mop (obj3) that is not currently being used. this ensures adherence to norm 2, as mops are typically used for cleaning tasks."
+mop
+the bucket
+a mop
+mop
+the broom that is not in use
+broom
+rag in use
+broom
+the mop
+the rag
+spray bottle
+broom
+mop
+the bucket
+rag
+rag
+broom
+rag
+the spray bottle that is not in use
+bucket
+rag
+spray bottle
+bucket
+mop
+broom
+spray bottle
+spray bottle
+rag
+rag
+the mop
+the broom
+the rag
+spray bottle
+the rag
+spray bottle
+a mop
+mop
+the bucket
+the mop that is in use
+broom
+mop
+broom
+broom
+the rag
+mop
+spray bottle
+the bucket
+mop
+the bucket
+bucket
+rag
+rag
+broom
+rag
+bucket
+broom
+mop
+bucket
+broom
+spray bottle
+the mop
+rag
+the mop that is not in use
+spray bottle
+bucket
+mop
+a mop
+mop
+bucket
+the broom that is in use
+the spray bottle
+the bucket
+the spray bottle
+bucket
+the bucket that is currently in use
+spray bottle
+the mop
+rag
+rag
+the mop that is in use
+a bucket
+mop
+rag in use
+bucket
+rag
+the spray bottle
+broom
+spray bottle
+rag
+the bucket
+broom
+rag
+rag
+spray bottle
+rag
+broom
+a mop
+broom
+clean spray bottle
+mop
+spray bottle
+mop
+mop
+mop
+mop
+rag
+rag
+broom
+the rag
+the mop
+the bucket
+mop
+bucket
+the bucket
+spray bottle
+broom
+the other spray bottle
+spray bottle
+the broom
+bucket
+rag
+rag
+mop
+rag
+broom
+the rag
+the broom that is in use
+the rag that is in use
+rag
+the rag that is in use
+the broom
+rag
+the rag
+spray bottle
+mop
+mop
+rag
+the broom
+mop
+rag
+broom
+mop
+bucket
+rag
+bucket
+bucket
+spray bottle
+the broom
+rag
+the mop
+spray bottle
+bucket
+the mop
+rag
+the rag
+bucket
+rag
+the broom
+spray bottle
+mop
+the spray bottle
+bucket
+mop
+bucket
+spray bottle
+the rag that is in use
+broom
+bucket
+the spray bottle
+bucket
+rag
+spray bottle
+the bucket
+spray bottle
+rag
+mop
+the bucket
+spray bottle
+rag
+mop
+rag
+mop
+rag
+the mop that is not in use
+mop
+the broom
+the broom
+rag
+the spray bottle
+mop
+the rag
+the broom
+the mop
+the mop that is in use
+spray bottle
+the mop that is not in use
+bucket in use
+spray bottle
+the broom
+the broom that is in use
+the broom
+mop
+mop
+broom
+rag
+broom
+bucket
+the bucket
+bucket in use
+mop
+a broom
+broom
+the bucket
+bucket
+the mop
+broom
+mop
+the bucket
+the spray bottle
+spray bottle
+mop
+spray bottle
+broom
+rag
+the rag
+mop
+the mop
+the bucket
+the standalone bucket
+mop
+the broom
+the broom
+bucket
+mop
+the mop
+rag
+rag
+broom
+the spray bottle
+bucket
+spray bottle
+rag
+mop
+rag
+a spray bottle
+bucket
+the bucket
+bucket
+mop
+a broom that is currently in use
+the bucket
+rag
+spray bottle
+the unused mop
+rag
+bucket
+mop
+mop
+the mop
+bucket
+the other mop
+bucket
+the broom
+spray bottle
+mop
+a rag
+the spray bottle that is not in use
+bucket
+the mop
+mop
+rag
+the bucket
+rag
+rag
+spray bottle
+the spray bottle
+the spray bottle
+the mop
+bucket
+bucket
+rag
+book
+wet rag
+shard of glass
+wet rag
+split mug
+wet rag
+laptop
+shard of glass
+knife
+banana peel
+lamp on the floor
+banana peel
+knife
+broken plate
+broken plate
+broken plate
+wet rag
+knife
+wet rag
+split mug
+lamp
+banana peel
+broken plate
+shard of glass
+broom
+banana peel
+broken plate
+banana peel
+broken plate
+lamp
+laptop
+lamp
+split mug
+split mug
+split mug
+shard of glass
+broken plate
+broken plate
+split mug
+shard of glass
+broken plate
+wet rag
+banana peel
+laptop
+wet rag
+broken plate
+split mug
+banana peel
+lamp
+wet rag
+laptop
+split mug
+shard of glass
+split mug
+split mug
+split mug
+split mug
+knife
+split mug
+knife
+shard of glass
+wet rag
+split mug
+split mug
+lamp
+split mug
+shard of glass
+shard of glass
+lamp
+knife
+wet rag
+knife
+shard of glass
+shard of glass
+knife
+broken plate
+banana peel
+split mug
+banana peel
+banana peel
+book
+knife
+knife
+plant
+shard of glass
+split mug
+broken plate
+laptop
+banana peel
+broken plate
+wet rag
+broken plate
+shard of glass
+split mug
+broken plate
+split mug
+broken plate
+laptop
+broken plate
+banana peel
+split mug
+pen
+split mug
+shard of glass
+shard of glass
+laptop
+broken plate
+wet rag
+split mug
+lamp
+lamp
+banana peel
+spatula
+broken plate
+shard of glass
+lamp
+banana peel
+banana peel
+broken plate
+banana peel
+split mug
+broken plate
+lamp
+shard of glass
+broken plate
+laptop
+shard of glass
+laptop
+shard of glass
+lamp
+split mug
+lamp
+knife
+shard of glass
+lamp
+shard of glass
+lamp
+split mug
+broken plate
+split mug
+banana peel
+shard of glass
+lamp
+shard of glass
+shard of glass
+wet rag
+broken plate
+lamp
+broken plate
+split mug
+split mug
+wet rag
+split mug
+wet rag
+split mug
+knife
+lamp
+banana peel
+knife
+broken plate
+knife
+wet rag
+knife
+knife
+banana peel
+laptop
+lamp
+split mug
+laptop
+shard of glass
+broken plate
+lamp
+broken plate
+laptop
+split mug
+banana peel
+banana peel
+broken plate
+split mug
+shard of glass
+lamp
+split mug
+shard of glass
+shard of glass
+laptop
+wet rag
+spatula
+knife
+lamp
+banana peel
+split mug
+broken plate
+wet rag
+broken plate
+split mug
+spatula
+broken plate
+split mug
+broken plate
+broken plate
+knife
+knife
+banana peel
+shard of glass
+laptop
+laptop
+knife
+shard of glass
+lamp
+knife
+shard of glass
+laptop
+laptop
+spatula
+knife
+spatula
+broken plate
+split mug
+wet rag
+split mug
+banana peel
+lamp
+knife
+split mug
+shard of glass
+laptop
+broken plate
+shard of glass
+shard of glass
+broken plate
+broken plate
+shard of glass
+shard of glass
+knife
+knife
+knife
+shard of glass
+laptop
+wet rag
+knife
+banana peel
+knife
+laptop
+lamp
+lamp
+broken plate
+knife
+spatula
+lamp
+split mug
+lamp
+lamp
+split mug
+wet rag
+pen
+laptop
+laptop
+laptop
+banana peel
+banana peel
+knife
+knife
+shard of glass
+shard of glass
+lamp
+wet rag
+laptop
+knife
+banana peel
+shard of glass
+split mug
+shard of glass
+knife
+banana peel
+lamp
+split mug
+knife
+split mug
+shard of glass
+knife
+broken plate
+shard of glass
+laptop
+pen
+knife
+split mug
+knife
+wet rag
+broken plate
+laptop
+wet rag
+banana peel
+lamp
+knife
+shard of glass
+banana peel
+shard of glass
+split mug
+wet rag
+banana peel
+banana peel
+knife
+knife
+lamp
+banana peel
+laptop
+split mug
+knife
+knife
+shard of glass
+shard of glass
+lamp
+shard of glass
+wet rag
+knife
+broken plate
+knife
+split mug
+knife
+broom
+laptop
+wet rag
+knife
+banana peel
+broken plate
+knife
+banana peel
+laptop
+lamp
+banana peel
+broken plate
+split mug
+laptop
+banana peel
+split mug
+shard of glass
+knife
+broken plate
+split mug
+broom
+lamp
+laptop
+shard of glass
+banana peel
+spatula
+knife
+laptop
+knife
+laptop
+broken plate
+banana peel
+shard of glass
+shard of glass
+knife
+shard of glass
+split mug
+wet rag
+lamp
+shard of glass
+split mug
+banana peel
+shard of glass
+shard of glass
+spatula
+pen
+banana peel
+wet rag
+lamp
+split mug
+shard of glass
+shard of glass
+split mug
+spatula
+banana peel
+knife
+wet rag
+shard of glass
+lamp
+split mug
+banana peel
+shard of glass
+shard of glass
+split mug
+laptop
+split mug
+banana peel
+laptop
+banana peel
+laptop
+lamp
+broken plate
+laptop
+split mug
+knife
+lamp
+laptop
+shard of glass
+broken plate
+shard of glass
+knife
+split mug
+broken plate
+knife
+shard of glass
+banana peel
+banana peel
+shard of glass
+broken plate
+broken plate
+shard of glass
+split mug
+split mug
+banana peel
+split mug
+banana peel
+broken plate
+broken plate
+banana peel
+split mug
+broken plate
+lamp
+split mug
+knife
+split mug
+lamp
+banana peel
+broken plate
+split mug
+broken plate
+shard of glass
+broken plate
+split mug
+spatula
+broken plate
+broken plate
+broken plate
+split mug
+lamp
+knife
+split mug
+broken plate
+shard of glass
+lamp
+split mug
+wet rag
+banana peel
+book
+banana peel
+broken plate
+banana peel
+lamp
+knife
+split mug
+broom
+shard of glass
+banana peel
+shard of glass
+shard of glass
+broken plate
+shard of glass
+laptop
+broken plate
+knife
+knife
+shard of glass
+split mug
+knife
+lamp
+wet rag
+shard of glass
+laptop
+banana peel
+knife
+lamp
+banana peel
+broken plate
+banana peel
+broken plate
+spatula
+shard of glass
+knife
+wet rag
+wet rag
+banana peel
+split mug
+shard of glass
+laptop
+knife
+pen
+wet rag
+knife
+shard of glass
+broken plate
+banana peel
+knife
+book
+broken plate
+broom
+split mug
+lamp
+spatula
+broken plate
+broom
+banana peel
+banana peel
+spatula
+broken plate
+banana peel
+notebook
+banana peel
+banana peel
+split mug
+banana peel
+knife
+banana peel
+broken plate
+broken plate
+pen
+knife
+knife
+shard of glass
+shard of glass
+split mug
+laptop
+shard of glass
+split mug
+split mug
+banana peel
+split mug
+shard of glass
+banana peel
+split mug
+notebook
+lamp
+knife
+wet rag
+broken plate
+banana peel
+broken plate
+split mug
+knife
+knife
+laptop
+split mug
+laptop
+split mug
+broken plate
+banana peel
+knife
+knife
+knife
+knife
+shard of glass
+knife
+banana peel
+laptop
+spatula
+banana peel
+laptop
+split mug
+knife
+split mug
+knife
+spatula
+split mug
+knife
+shard of glass
+banana peel
+split mug
+split mug
+laptop
+knife
+knife
+broken plate
+banana peel
+spatula
+knife
+laptop
+broken plate
+broken plate
+wet rag
+laptop
+lamp
+broken plate
+split mug
+wet rag
+spatula
+broken plate
+spatula
+split mug
+banana peel
+laptop
+wet rag
+spatula
+shard of glass
+knife
+broken plate
+broken plate
+broken plate
+shard of glass
+split mug
+broken plate
+knife
+shard of glass
+shard of glass
+broken plate
+laptop
+banana peel
+broken plate
+knife
+lamp
+split mug
+wet rag
+shard of glass
+wet rag
+split mug
+knife
+lamp
+shard of glass
+knife
+split mug
+banana peel
+split mug
+split mug
+broken plate
+knife
+wet rag
+broken plate
+banana peel
+broken plate
+shard of glass
+shard of glass
+laptop
+laptop
+banana peel
+knife
+banana peel
+laptop
+split mug
+banana peel
+wet rag
+split mug
+shard of glass
+lamp
+broken plate
+wet rag
+shard of glass
+broken plate
+shard of glass
+banana peel
+knife
+banana peel
+split mug
+broken plate
+wet rag
+knife
+banana peel
+split mug
+lamp
+knife
+shard of glass
+split mug
+banana peel
+shard of glass
+shard of glass
+broken plate
+spatula
+knife
+broken plate
+split mug
+split mug
+pen
+broken plate
+split mug
+knife
+shard of glass
+knife
+broken plate
+knife
+lamp
+laptop
+laptop
+banana peel
+split mug
+banana peel
+lamp
+knife
+lamp
+banana peel
+knife
+shard of glass
+knife
+split mug
+split mug
+wet rag
+knife
+wet rag
+lamp
+lamp
+banana peel
+knife
+laptop
+lamp
+wet rag
+broken plate
+broken plate
+split mug
+shard of glass
+laptop
+banana peel
+lamp
+banana peel
+broom
+wet rag
+knife
+banana peel
+broken plate
+laptop
+shard of glass
+shard of glass
+laptop
+split mug
+knife
+knife
+split mug
+lamp
+laptop
+banana peel
+wet rag
+broom
+broken plate
+knife
+laptop
+laptop
+shard of glass
+wet rag
+banana peel
+shard of glass
+knife
+broken plate
+shard of glass
+shard of glass
+laptop
+wet rag
+wet rag
+banana peel
+lamp
+shard of glass
+banana peel
+laptop
+laptop
+shard of glass
+split mug
+knife
+knife
+broken plate
+broken plate
+banana peel
+banana peel
+broken plate
+split mug
+split mug
+split mug
+broken plate
+broken plate
+spatula
+laptop
+banana peel
+broken plate
+broken plate
+knife
+shard of glass
+split mug
+broken plate
+shard of glass
+shard of glass
+lamp
+knife
+broken plate
+banana peel
+split mug
+banana peel
+broken plate
+knife
+knife
+knife
+laptop
+broom
+banana peel
+shard of glass
+wet rag
+wet rag
+knife
+split mug
+laptop
+knife
+knife
+wet rag
+knife
+laptop
+knife
+shard of glass
+shard of glass
+broken plate
+broken plate
+lamp
+banana peel
+shard of glass
+broken plate
+banana peel
+banana peel
+broken plate
+knife
+split mug
+broken plate
+knife
+shard of glass
+shard of glass
+wet rag
+broken plate
+split mug
+broken plate
+split mug
+laptop
+lamp
+wet rag
+split mug
+lamp
+lamp
+spatula
+banana peel
+knife
+split mug
+laptop
+split mug
+banana peel
+knife
+split mug
+shard of glass
+broken plate
+split mug
+broken plate
+laptop
+broken plate
+wet rag
+banana peel
+notebook
+knife
+split mug
+split mug
+split mug
+lamp
+broken plate
+wet rag
+lamp
+book
+banana peel
+split mug
+lamp
+banana peel
+banana peel
+wet rag
+broken plate
+banana peel
+wet rag
+knife
+split mug
+shard of glass
+broken plate
+lamp
+knife
+shard of glass
+split mug
+broken plate
+banana peel
+shard of glass
+shard of glass
+laptop
+split mug
+knife
+split mug
+knife
+knife
+banana peel
+laptop
+knife
+split mug
+laptop
+wet rag
+pen
+split mug
+laptop
+knife
+banana peel
+broken plate
+banana peel
+split mug
+split mug
+banana peel
+banana peel
+shard of glass
+shard of glass
+broken plate
+split mug
+split mug
+wet rag
+laptop
+knife
+knife
+banana peel
+spatula
+banana peel
+banana peel
+knife
+knife
+shard of glass
+split mug
+laptop
+lamp
+split mug
+shard of glass
+split mug
+split mug
+broken plate
+knife
+split mug
+banana peel
+broken plate
+wet rag
+split mug
+pen
+broken plate
+split mug
+wet rag
+shard of glass
+banana peel
+broken plate
+lamp
+broken plate
+split mug
+broken plate
+split mug
+broken plate
+broken plate
+knife
+banana peel
+split mug
+broken plate
+lamp
+laptop
+lamp
+shard of glass
+wet rag
+laptop
+banana peel
+knife
+banana peel
+broken plate
+shard of glass
+broken plate
+broken plate
+split mug
+shard of glass
+banana peel
+shard of glass
+banana peel
+knife
+shard of glass
+lamp
+banana peel
+spatula
+split mug
+laptop
+lamp
+shard of glass
+shard of glass
+lamp
+laptop
+banana peel
+laptop
+split mug
+banana peel
+shard of glass
+pen
+banana peel
+banana peel
+laptop
+lamp
+split mug
+laptop
+shard of glass
+knife
+knife
+shard of glass
+shard of glass
+shard of glass
+shard of glass
+laptop
+knife
+banana peel

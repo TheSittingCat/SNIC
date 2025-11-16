@@ -1,0 +1,12 @@
+Source,Accuracy
+10conflict3.csv,0.301
+7broken_general.csv,0.247
+9conflict2.csv,0.102
+8conflict1_input.csv,0.235
+1scene.csv,0.294
+5scene.csv,0.08
+4scene.csv,0.116
+6broken_cleaning.csv,0.252
+2scene.csv,0.223
+3scene.csv,0.17617617617617617
+Overall,0.2027
